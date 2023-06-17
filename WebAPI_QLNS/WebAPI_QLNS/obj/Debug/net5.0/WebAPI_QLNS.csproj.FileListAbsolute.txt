@@ -1,0 +1,197 @@
+D:\DANG KY HK 5\tkpm\20880008_20880028\1988260-20880061\SourceCode\WebAPI_QLNS\WebAPI_QLNS\bin\Debug\net5.0\appsettings.Development.json
+D:\DANG KY HK 5\tkpm\20880008_20880028\1988260-20880061\SourceCode\WebAPI_QLNS\WebAPI_QLNS\bin\Debug\net5.0\appsettings.json
+D:\DANG KY HK 5\tkpm\20880008_20880028\1988260-20880061\SourceCode\WebAPI_QLNS\WebAPI_QLNS\bin\Debug\net5.0\WebAPI_QLNS.exe
+D:\DANG KY HK 5\tkpm\20880008_20880028\1988260-20880061\SourceCode\WebAPI_QLNS\WebAPI_QLNS\bin\Debug\net5.0\WebAPI_QLNS.deps.json
+D:\DANG KY HK 5\tkpm\20880008_20880028\1988260-20880061\SourceCode\WebAPI_QLNS\WebAPI_QLNS\bin\Debug\net5.0\WebAPI_QLNS.runtimeconfig.json
+D:\DANG KY HK 5\tkpm\20880008_20880028\1988260-20880061\SourceCode\WebAPI_QLNS\WebAPI_QLNS\bin\Debug\net5.0\WebAPI_QLNS.runtimeconfig.dev.json
+D:\DANG KY HK 5\tkpm\20880008_20880028\1988260-20880061\SourceCode\WebAPI_QLNS\WebAPI_QLNS\bin\Debug\net5.0\WebAPI_QLNS.dll
+D:\DANG KY HK 5\tkpm\20880008_20880028\1988260-20880061\SourceCode\WebAPI_QLNS\WebAPI_QLNS\bin\Debug\net5.0\ref\WebAPI_QLNS.dll
+D:\DANG KY HK 5\tkpm\20880008_20880028\1988260-20880061\SourceCode\WebAPI_QLNS\WebAPI_QLNS\bin\Debug\net5.0\WebAPI_QLNS.pdb
+D:\DANG KY HK 5\tkpm\20880008_20880028\1988260-20880061\SourceCode\WebAPI_QLNS\WebAPI_QLNS\bin\Debug\net5.0\AutoMapper.dll
+D:\DANG KY HK 5\tkpm\20880008_20880028\1988260-20880061\SourceCode\WebAPI_QLNS\WebAPI_QLNS\bin\Debug\net5.0\Humanizer.dll
+D:\DANG KY HK 5\tkpm\20880008_20880028\1988260-20880061\SourceCode\WebAPI_QLNS\WebAPI_QLNS\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\DANG KY HK 5\tkpm\20880008_20880028\1988260-20880061\SourceCode\WebAPI_QLNS\WebAPI_QLNS\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+D:\DANG KY HK 5\tkpm\20880008_20880028\1988260-20880061\SourceCode\WebAPI_QLNS\WebAPI_QLNS\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\DANG KY HK 5\tkpm\20880008_20880028\1988260-20880061\SourceCode\WebAPI_QLNS\WebAPI_QLNS\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\DANG KY HK 5\tkpm\20880008_20880028\1988260-20880061\SourceCode\WebAPI_QLNS\WebAPI_QLNS\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\DANG KY HK 5\tkpm\20880008_20880028\1988260-20880061\SourceCode\WebAPI_QLNS\WebAPI_QLNS\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.InMemory.dll
+D:\DANG KY HK 5\tkpm\20880008_20880028\1988260-20880061\SourceCode\WebAPI_QLNS\WebAPI_QLNS\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\DANG KY HK 5\tkpm\20880008_20880028\1988260-20880061\SourceCode\WebAPI_QLNS\WebAPI_QLNS\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\DANG KY HK 5\tkpm\20880008_20880028\1988260-20880061\SourceCode\WebAPI_QLNS\WebAPI_QLNS\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\DANG KY HK 5\tkpm\20880008_20880028\1988260-20880061\SourceCode\WebAPI_QLNS\WebAPI_QLNS\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+D:\DANG KY HK 5\tkpm\20880008_20880028\1988260-20880061\SourceCode\WebAPI_QLNS\WebAPI_QLNS\bin\Debug\net5.0\Microsoft.IdentityModel.Abstractions.dll
+D:\DANG KY HK 5\tkpm\20880008_20880028\1988260-20880061\SourceCode\WebAPI_QLNS\WebAPI_QLNS\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\DANG KY HK 5\tkpm\20880008_20880028\1988260-20880061\SourceCode\WebAPI_QLNS\WebAPI_QLNS\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\DANG KY HK 5\tkpm\20880008_20880028\1988260-20880061\SourceCode\WebAPI_QLNS\WebAPI_QLNS\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\DANG KY HK 5\tkpm\20880008_20880028\1988260-20880061\SourceCode\WebAPI_QLNS\WebAPI_QLNS\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\DANG KY HK 5\tkpm\20880008_20880028\1988260-20880061\SourceCode\WebAPI_QLNS\WebAPI_QLNS\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\DANG KY HK 5\tkpm\20880008_20880028\1988260-20880061\SourceCode\WebAPI_QLNS\WebAPI_QLNS\bin\Debug\net5.0\Microsoft.OpenApi.dll
+D:\DANG KY HK 5\tkpm\20880008_20880028\1988260-20880061\SourceCode\WebAPI_QLNS\WebAPI_QLNS\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\DANG KY HK 5\tkpm\20880008_20880028\1988260-20880061\SourceCode\WebAPI_QLNS\WebAPI_QLNS\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\DANG KY HK 5\tkpm\20880008_20880028\1988260-20880061\SourceCode\WebAPI_QLNS\WebAPI_QLNS\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\DANG KY HK 5\tkpm\20880008_20880028\1988260-20880061\SourceCode\WebAPI_QLNS\WebAPI_QLNS\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\DANG KY HK 5\tkpm\20880008_20880028\1988260-20880061\SourceCode\WebAPI_QLNS\WebAPI_QLNS\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+D:\DANG KY HK 5\tkpm\20880008_20880028\1988260-20880061\SourceCode\WebAPI_QLNS\WebAPI_QLNS\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\DANG KY HK 5\tkpm\20880008_20880028\1988260-20880061\SourceCode\WebAPI_QLNS\WebAPI_QLNS\bin\Debug\net5.0\System.Runtime.Caching.dll
+D:\DANG KY HK 5\tkpm\20880008_20880028\1988260-20880061\SourceCode\WebAPI_QLNS\WebAPI_QLNS\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\DANG KY HK 5\tkpm\20880008_20880028\1988260-20880061\SourceCode\WebAPI_QLNS\WebAPI_QLNS\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\DANG KY HK 5\tkpm\20880008_20880028\1988260-20880061\SourceCode\WebAPI_QLNS\WebAPI_QLNS\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\DANG KY HK 5\tkpm\20880008_20880028\1988260-20880061\SourceCode\WebAPI_QLNS\WebAPI_QLNS\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\DANG KY HK 5\tkpm\20880008_20880028\1988260-20880061\SourceCode\WebAPI_QLNS\WebAPI_QLNS\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\DANG KY HK 5\tkpm\20880008_20880028\1988260-20880061\SourceCode\WebAPI_QLNS\WebAPI_QLNS\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\DANG KY HK 5\tkpm\20880008_20880028\1988260-20880061\SourceCode\WebAPI_QLNS\WebAPI_QLNS\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\DANG KY HK 5\tkpm\20880008_20880028\1988260-20880061\SourceCode\WebAPI_QLNS\WebAPI_QLNS\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\DANG KY HK 5\tkpm\20880008_20880028\1988260-20880061\SourceCode\WebAPI_QLNS\WebAPI_QLNS\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\DANG KY HK 5\tkpm\20880008_20880028\1988260-20880061\SourceCode\WebAPI_QLNS\WebAPI_QLNS\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\DANG KY HK 5\tkpm\20880008_20880028\1988260-20880061\SourceCode\WebAPI_QLNS\WebAPI_QLNS\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\DANG KY HK 5\tkpm\20880008_20880028\1988260-20880061\SourceCode\WebAPI_QLNS\WebAPI_QLNS\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\DANG KY HK 5\tkpm\20880008_20880028\1988260-20880061\SourceCode\WebAPI_QLNS\WebAPI_QLNS\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\DANG KY HK 5\tkpm\20880008_20880028\1988260-20880061\SourceCode\WebAPI_QLNS\WebAPI_QLNS\obj\Debug\net5.0\WebAPI_QLNS.csprojAssemblyReference.cache
+D:\DANG KY HK 5\tkpm\20880008_20880028\1988260-20880061\SourceCode\WebAPI_QLNS\WebAPI_QLNS\obj\Debug\net5.0\WebAPI_QLNS.GeneratedMSBuildEditorConfig.editorconfig
+D:\DANG KY HK 5\tkpm\20880008_20880028\1988260-20880061\SourceCode\WebAPI_QLNS\WebAPI_QLNS\obj\Debug\net5.0\WebAPI_QLNS.AssemblyInfoInputs.cache
+D:\DANG KY HK 5\tkpm\20880008_20880028\1988260-20880061\SourceCode\WebAPI_QLNS\WebAPI_QLNS\obj\Debug\net5.0\WebAPI_QLNS.AssemblyInfo.cs
+D:\DANG KY HK 5\tkpm\20880008_20880028\1988260-20880061\SourceCode\WebAPI_QLNS\WebAPI_QLNS\obj\Debug\net5.0\WebAPI_QLNS.csproj.CoreCompileInputs.cache
+D:\DANG KY HK 5\tkpm\20880008_20880028\1988260-20880061\SourceCode\WebAPI_QLNS\WebAPI_QLNS\obj\Debug\net5.0\WebAPI_QLNS.MvcApplicationPartsAssemblyInfo.cs
+D:\DANG KY HK 5\tkpm\20880008_20880028\1988260-20880061\SourceCode\WebAPI_QLNS\WebAPI_QLNS\obj\Debug\net5.0\WebAPI_QLNS.MvcApplicationPartsAssemblyInfo.cache
+D:\DANG KY HK 5\tkpm\20880008_20880028\1988260-20880061\SourceCode\WebAPI_QLNS\WebAPI_QLNS\obj\Debug\net5.0\staticwebassets\WebAPI_QLNS.StaticWebAssets.Manifest.cache
+D:\DANG KY HK 5\tkpm\20880008_20880028\1988260-20880061\SourceCode\WebAPI_QLNS\WebAPI_QLNS\obj\Debug\net5.0\staticwebassets\WebAPI_QLNS.StaticWebAssets.xml
+D:\DANG KY HK 5\tkpm\20880008_20880028\1988260-20880061\SourceCode\WebAPI_QLNS\WebAPI_QLNS\obj\Debug\net5.0\scopedcss\bundle\WebAPI_QLNS.styles.css
+D:\DANG KY HK 5\tkpm\20880008_20880028\1988260-20880061\SourceCode\WebAPI_QLNS\WebAPI_QLNS\obj\Debug\net5.0\WebAPI_QLNS.RazorTargetAssemblyInfo.cache
+D:\DANG KY HK 5\tkpm\20880008_20880028\1988260-20880061\SourceCode\WebAPI_QLNS\WebAPI_QLNS\obj\Debug\net5.0\WebAPI_QLNS.csproj.CopyComplete
+D:\DANG KY HK 5\tkpm\20880008_20880028\1988260-20880061\SourceCode\WebAPI_QLNS\WebAPI_QLNS\obj\Debug\net5.0\WebAPI_QLNS.dll
+D:\DANG KY HK 5\tkpm\20880008_20880028\1988260-20880061\SourceCode\WebAPI_QLNS\WebAPI_QLNS\obj\Debug\net5.0\ref\WebAPI_QLNS.dll
+D:\DANG KY HK 5\tkpm\20880008_20880028\1988260-20880061\SourceCode\WebAPI_QLNS\WebAPI_QLNS\obj\Debug\net5.0\WebAPI_QLNS.pdb
+D:\DANG KY HK 5\tkpm\20880008_20880028\1988260-20880061\SourceCode\WebAPI_QLNS\WebAPI_QLNS\obj\Debug\net5.0\WebAPI_QLNS.genruntimeconfig.cache
+E:\1. Hoc CNTT VB2\12. TKPM\21880018\SourceCode\WebAPI_QLNS\WebAPI_QLNS\bin\Debug\net5.0\appsettings.Development.json
+E:\1. Hoc CNTT VB2\12. TKPM\21880018\SourceCode\WebAPI_QLNS\WebAPI_QLNS\bin\Debug\net5.0\appsettings.json
+E:\1. Hoc CNTT VB2\12. TKPM\21880018\SourceCode\WebAPI_QLNS\WebAPI_QLNS\bin\Debug\net5.0\WebAPI_QLNS.exe
+E:\1. Hoc CNTT VB2\12. TKPM\21880018\SourceCode\WebAPI_QLNS\WebAPI_QLNS\bin\Debug\net5.0\WebAPI_QLNS.deps.json
+E:\1. Hoc CNTT VB2\12. TKPM\21880018\SourceCode\WebAPI_QLNS\WebAPI_QLNS\bin\Debug\net5.0\WebAPI_QLNS.runtimeconfig.json
+E:\1. Hoc CNTT VB2\12. TKPM\21880018\SourceCode\WebAPI_QLNS\WebAPI_QLNS\bin\Debug\net5.0\WebAPI_QLNS.runtimeconfig.dev.json
+E:\1. Hoc CNTT VB2\12. TKPM\21880018\SourceCode\WebAPI_QLNS\WebAPI_QLNS\bin\Debug\net5.0\WebAPI_QLNS.dll
+E:\1. Hoc CNTT VB2\12. TKPM\21880018\SourceCode\WebAPI_QLNS\WebAPI_QLNS\bin\Debug\net5.0\ref\WebAPI_QLNS.dll
+E:\1. Hoc CNTT VB2\12. TKPM\21880018\SourceCode\WebAPI_QLNS\WebAPI_QLNS\bin\Debug\net5.0\WebAPI_QLNS.pdb
+E:\1. Hoc CNTT VB2\12. TKPM\21880018\SourceCode\WebAPI_QLNS\WebAPI_QLNS\bin\Debug\net5.0\AutoMapper.dll
+E:\1. Hoc CNTT VB2\12. TKPM\21880018\SourceCode\WebAPI_QLNS\WebAPI_QLNS\bin\Debug\net5.0\Humanizer.dll
+E:\1. Hoc CNTT VB2\12. TKPM\21880018\SourceCode\WebAPI_QLNS\WebAPI_QLNS\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+E:\1. Hoc CNTT VB2\12. TKPM\21880018\SourceCode\WebAPI_QLNS\WebAPI_QLNS\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+E:\1. Hoc CNTT VB2\12. TKPM\21880018\SourceCode\WebAPI_QLNS\WebAPI_QLNS\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+E:\1. Hoc CNTT VB2\12. TKPM\21880018\SourceCode\WebAPI_QLNS\WebAPI_QLNS\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\1. Hoc CNTT VB2\12. TKPM\21880018\SourceCode\WebAPI_QLNS\WebAPI_QLNS\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\1. Hoc CNTT VB2\12. TKPM\21880018\SourceCode\WebAPI_QLNS\WebAPI_QLNS\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.InMemory.dll
+E:\1. Hoc CNTT VB2\12. TKPM\21880018\SourceCode\WebAPI_QLNS\WebAPI_QLNS\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\1. Hoc CNTT VB2\12. TKPM\21880018\SourceCode\WebAPI_QLNS\WebAPI_QLNS\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\1. Hoc CNTT VB2\12. TKPM\21880018\SourceCode\WebAPI_QLNS\WebAPI_QLNS\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+E:\1. Hoc CNTT VB2\12. TKPM\21880018\SourceCode\WebAPI_QLNS\WebAPI_QLNS\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+E:\1. Hoc CNTT VB2\12. TKPM\21880018\SourceCode\WebAPI_QLNS\WebAPI_QLNS\bin\Debug\net5.0\Microsoft.IdentityModel.Abstractions.dll
+E:\1. Hoc CNTT VB2\12. TKPM\21880018\SourceCode\WebAPI_QLNS\WebAPI_QLNS\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\1. Hoc CNTT VB2\12. TKPM\21880018\SourceCode\WebAPI_QLNS\WebAPI_QLNS\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+E:\1. Hoc CNTT VB2\12. TKPM\21880018\SourceCode\WebAPI_QLNS\WebAPI_QLNS\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+E:\1. Hoc CNTT VB2\12. TKPM\21880018\SourceCode\WebAPI_QLNS\WebAPI_QLNS\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\1. Hoc CNTT VB2\12. TKPM\21880018\SourceCode\WebAPI_QLNS\WebAPI_QLNS\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+E:\1. Hoc CNTT VB2\12. TKPM\21880018\SourceCode\WebAPI_QLNS\WebAPI_QLNS\bin\Debug\net5.0\Microsoft.OpenApi.dll
+E:\1. Hoc CNTT VB2\12. TKPM\21880018\SourceCode\WebAPI_QLNS\WebAPI_QLNS\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\1. Hoc CNTT VB2\12. TKPM\21880018\SourceCode\WebAPI_QLNS\WebAPI_QLNS\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\1. Hoc CNTT VB2\12. TKPM\21880018\SourceCode\WebAPI_QLNS\WebAPI_QLNS\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\1. Hoc CNTT VB2\12. TKPM\21880018\SourceCode\WebAPI_QLNS\WebAPI_QLNS\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+E:\1. Hoc CNTT VB2\12. TKPM\21880018\SourceCode\WebAPI_QLNS\WebAPI_QLNS\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+E:\1. Hoc CNTT VB2\12. TKPM\21880018\SourceCode\WebAPI_QLNS\WebAPI_QLNS\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+E:\1. Hoc CNTT VB2\12. TKPM\21880018\SourceCode\WebAPI_QLNS\WebAPI_QLNS\bin\Debug\net5.0\System.Runtime.Caching.dll
+E:\1. Hoc CNTT VB2\12. TKPM\21880018\SourceCode\WebAPI_QLNS\WebAPI_QLNS\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+E:\1. Hoc CNTT VB2\12. TKPM\21880018\SourceCode\WebAPI_QLNS\WebAPI_QLNS\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\1. Hoc CNTT VB2\12. TKPM\21880018\SourceCode\WebAPI_QLNS\WebAPI_QLNS\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\1. Hoc CNTT VB2\12. TKPM\21880018\SourceCode\WebAPI_QLNS\WebAPI_QLNS\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\1. Hoc CNTT VB2\12. TKPM\21880018\SourceCode\WebAPI_QLNS\WebAPI_QLNS\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\1. Hoc CNTT VB2\12. TKPM\21880018\SourceCode\WebAPI_QLNS\WebAPI_QLNS\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\1. Hoc CNTT VB2\12. TKPM\21880018\SourceCode\WebAPI_QLNS\WebAPI_QLNS\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\1. Hoc CNTT VB2\12. TKPM\21880018\SourceCode\WebAPI_QLNS\WebAPI_QLNS\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\1. Hoc CNTT VB2\12. TKPM\21880018\SourceCode\WebAPI_QLNS\WebAPI_QLNS\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\1. Hoc CNTT VB2\12. TKPM\21880018\SourceCode\WebAPI_QLNS\WebAPI_QLNS\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\1. Hoc CNTT VB2\12. TKPM\21880018\SourceCode\WebAPI_QLNS\WebAPI_QLNS\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\1. Hoc CNTT VB2\12. TKPM\21880018\SourceCode\WebAPI_QLNS\WebAPI_QLNS\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\1. Hoc CNTT VB2\12. TKPM\21880018\SourceCode\WebAPI_QLNS\WebAPI_QLNS\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\1. Hoc CNTT VB2\12. TKPM\21880018\SourceCode\WebAPI_QLNS\WebAPI_QLNS\obj\Debug\net5.0\WebAPI_QLNS.csproj.AssemblyReference.cache
+E:\1. Hoc CNTT VB2\12. TKPM\21880018\SourceCode\WebAPI_QLNS\WebAPI_QLNS\obj\Debug\net5.0\WebAPI_QLNS.GeneratedMSBuildEditorConfig.editorconfig
+E:\1. Hoc CNTT VB2\12. TKPM\21880018\SourceCode\WebAPI_QLNS\WebAPI_QLNS\obj\Debug\net5.0\WebAPI_QLNS.AssemblyInfoInputs.cache
+E:\1. Hoc CNTT VB2\12. TKPM\21880018\SourceCode\WebAPI_QLNS\WebAPI_QLNS\obj\Debug\net5.0\WebAPI_QLNS.AssemblyInfo.cs
+E:\1. Hoc CNTT VB2\12. TKPM\21880018\SourceCode\WebAPI_QLNS\WebAPI_QLNS\obj\Debug\net5.0\WebAPI_QLNS.csproj.CoreCompileInputs.cache
+E:\1. Hoc CNTT VB2\12. TKPM\21880018\SourceCode\WebAPI_QLNS\WebAPI_QLNS\obj\Debug\net5.0\WebAPI_QLNS.MvcApplicationPartsAssemblyInfo.cs
+E:\1. Hoc CNTT VB2\12. TKPM\21880018\SourceCode\WebAPI_QLNS\WebAPI_QLNS\obj\Debug\net5.0\WebAPI_QLNS.MvcApplicationPartsAssemblyInfo.cache
+E:\1. Hoc CNTT VB2\12. TKPM\21880018\SourceCode\WebAPI_QLNS\WebAPI_QLNS\obj\Debug\net5.0\staticwebassets\WebAPI_QLNS.StaticWebAssets.Manifest.cache
+E:\1. Hoc CNTT VB2\12. TKPM\21880018\SourceCode\WebAPI_QLNS\WebAPI_QLNS\obj\Debug\net5.0\staticwebassets\WebAPI_QLNS.StaticWebAssets.xml
+E:\1. Hoc CNTT VB2\12. TKPM\21880018\SourceCode\WebAPI_QLNS\WebAPI_QLNS\obj\Debug\net5.0\scopedcss\bundle\WebAPI_QLNS.styles.css
+E:\1. Hoc CNTT VB2\12. TKPM\21880018\SourceCode\WebAPI_QLNS\WebAPI_QLNS\obj\Debug\net5.0\WebAPI_QLNS.RazorTargetAssemblyInfo.cache
+E:\1. Hoc CNTT VB2\12. TKPM\21880018\SourceCode\WebAPI_QLNS\WebAPI_QLNS\obj\Debug\net5.0\WebAPI_QLNS.csproj.CopyComplete
+E:\1. Hoc CNTT VB2\12. TKPM\21880018\SourceCode\WebAPI_QLNS\WebAPI_QLNS\obj\Debug\net5.0\WebAPI_QLNS.dll
+E:\1. Hoc CNTT VB2\12. TKPM\21880018\SourceCode\WebAPI_QLNS\WebAPI_QLNS\obj\Debug\net5.0\ref\WebAPI_QLNS.dll
+E:\1. Hoc CNTT VB2\12. TKPM\21880018\SourceCode\WebAPI_QLNS\WebAPI_QLNS\obj\Debug\net5.0\WebAPI_QLNS.pdb
+E:\1. Hoc CNTT VB2\12. TKPM\21880018\SourceCode\WebAPI_QLNS\WebAPI_QLNS\obj\Debug\net5.0\WebAPI_QLNS.genruntimeconfig.cache
+C:\Users\NGHI DANG\Dropbox\My PC (LAPTOP-9NVMENQT)\Documents\VAN BANG 2_CNTT\Project\WebAPI_QLNS\WebAPI_QLNS\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\NGHI DANG\Dropbox\My PC (LAPTOP-9NVMENQT)\Documents\VAN BANG 2_CNTT\Project\WebAPI_QLNS\WebAPI_QLNS\bin\Debug\net5.0\appsettings.json
+C:\Users\NGHI DANG\Dropbox\My PC (LAPTOP-9NVMENQT)\Documents\VAN BANG 2_CNTT\Project\WebAPI_QLNS\WebAPI_QLNS\bin\Debug\net5.0\WebAPI_QLNS.StaticWebAssets.xml
+C:\Users\NGHI DANG\Dropbox\My PC (LAPTOP-9NVMENQT)\Documents\VAN BANG 2_CNTT\Project\WebAPI_QLNS\WebAPI_QLNS\bin\Debug\net5.0\WebAPI_QLNS.exe
+C:\Users\NGHI DANG\Dropbox\My PC (LAPTOP-9NVMENQT)\Documents\VAN BANG 2_CNTT\Project\WebAPI_QLNS\WebAPI_QLNS\bin\Debug\net5.0\WebAPI_QLNS.deps.json
+C:\Users\NGHI DANG\Dropbox\My PC (LAPTOP-9NVMENQT)\Documents\VAN BANG 2_CNTT\Project\WebAPI_QLNS\WebAPI_QLNS\bin\Debug\net5.0\WebAPI_QLNS.runtimeconfig.json
+C:\Users\NGHI DANG\Dropbox\My PC (LAPTOP-9NVMENQT)\Documents\VAN BANG 2_CNTT\Project\WebAPI_QLNS\WebAPI_QLNS\bin\Debug\net5.0\WebAPI_QLNS.runtimeconfig.dev.json
+C:\Users\NGHI DANG\Dropbox\My PC (LAPTOP-9NVMENQT)\Documents\VAN BANG 2_CNTT\Project\WebAPI_QLNS\WebAPI_QLNS\bin\Debug\net5.0\WebAPI_QLNS.dll
+C:\Users\NGHI DANG\Dropbox\My PC (LAPTOP-9NVMENQT)\Documents\VAN BANG 2_CNTT\Project\WebAPI_QLNS\WebAPI_QLNS\bin\Debug\net5.0\WebAPI_QLNS.pdb
+C:\Users\NGHI DANG\Dropbox\My PC (LAPTOP-9NVMENQT)\Documents\VAN BANG 2_CNTT\Project\WebAPI_QLNS\WebAPI_QLNS\bin\Debug\net5.0\AutoMapper.dll
+C:\Users\NGHI DANG\Dropbox\My PC (LAPTOP-9NVMENQT)\Documents\VAN BANG 2_CNTT\Project\WebAPI_QLNS\WebAPI_QLNS\bin\Debug\net5.0\Humanizer.dll
+C:\Users\NGHI DANG\Dropbox\My PC (LAPTOP-9NVMENQT)\Documents\VAN BANG 2_CNTT\Project\WebAPI_QLNS\WebAPI_QLNS\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\NGHI DANG\Dropbox\My PC (LAPTOP-9NVMENQT)\Documents\VAN BANG 2_CNTT\Project\WebAPI_QLNS\WebAPI_QLNS\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\NGHI DANG\Dropbox\My PC (LAPTOP-9NVMENQT)\Documents\VAN BANG 2_CNTT\Project\WebAPI_QLNS\WebAPI_QLNS\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\NGHI DANG\Dropbox\My PC (LAPTOP-9NVMENQT)\Documents\VAN BANG 2_CNTT\Project\WebAPI_QLNS\WebAPI_QLNS\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\NGHI DANG\Dropbox\My PC (LAPTOP-9NVMENQT)\Documents\VAN BANG 2_CNTT\Project\WebAPI_QLNS\WebAPI_QLNS\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\NGHI DANG\Dropbox\My PC (LAPTOP-9NVMENQT)\Documents\VAN BANG 2_CNTT\Project\WebAPI_QLNS\WebAPI_QLNS\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Users\NGHI DANG\Dropbox\My PC (LAPTOP-9NVMENQT)\Documents\VAN BANG 2_CNTT\Project\WebAPI_QLNS\WebAPI_QLNS\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\NGHI DANG\Dropbox\My PC (LAPTOP-9NVMENQT)\Documents\VAN BANG 2_CNTT\Project\WebAPI_QLNS\WebAPI_QLNS\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\NGHI DANG\Dropbox\My PC (LAPTOP-9NVMENQT)\Documents\VAN BANG 2_CNTT\Project\WebAPI_QLNS\WebAPI_QLNS\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\NGHI DANG\Dropbox\My PC (LAPTOP-9NVMENQT)\Documents\VAN BANG 2_CNTT\Project\WebAPI_QLNS\WebAPI_QLNS\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\NGHI DANG\Dropbox\My PC (LAPTOP-9NVMENQT)\Documents\VAN BANG 2_CNTT\Project\WebAPI_QLNS\WebAPI_QLNS\bin\Debug\net5.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\NGHI DANG\Dropbox\My PC (LAPTOP-9NVMENQT)\Documents\VAN BANG 2_CNTT\Project\WebAPI_QLNS\WebAPI_QLNS\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\NGHI DANG\Dropbox\My PC (LAPTOP-9NVMENQT)\Documents\VAN BANG 2_CNTT\Project\WebAPI_QLNS\WebAPI_QLNS\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\NGHI DANG\Dropbox\My PC (LAPTOP-9NVMENQT)\Documents\VAN BANG 2_CNTT\Project\WebAPI_QLNS\WebAPI_QLNS\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\NGHI DANG\Dropbox\My PC (LAPTOP-9NVMENQT)\Documents\VAN BANG 2_CNTT\Project\WebAPI_QLNS\WebAPI_QLNS\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\NGHI DANG\Dropbox\My PC (LAPTOP-9NVMENQT)\Documents\VAN BANG 2_CNTT\Project\WebAPI_QLNS\WebAPI_QLNS\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\NGHI DANG\Dropbox\My PC (LAPTOP-9NVMENQT)\Documents\VAN BANG 2_CNTT\Project\WebAPI_QLNS\WebAPI_QLNS\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\NGHI DANG\Dropbox\My PC (LAPTOP-9NVMENQT)\Documents\VAN BANG 2_CNTT\Project\WebAPI_QLNS\WebAPI_QLNS\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\NGHI DANG\Dropbox\My PC (LAPTOP-9NVMENQT)\Documents\VAN BANG 2_CNTT\Project\WebAPI_QLNS\WebAPI_QLNS\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\NGHI DANG\Dropbox\My PC (LAPTOP-9NVMENQT)\Documents\VAN BANG 2_CNTT\Project\WebAPI_QLNS\WebAPI_QLNS\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\NGHI DANG\Dropbox\My PC (LAPTOP-9NVMENQT)\Documents\VAN BANG 2_CNTT\Project\WebAPI_QLNS\WebAPI_QLNS\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\NGHI DANG\Dropbox\My PC (LAPTOP-9NVMENQT)\Documents\VAN BANG 2_CNTT\Project\WebAPI_QLNS\WebAPI_QLNS\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\NGHI DANG\Dropbox\My PC (LAPTOP-9NVMENQT)\Documents\VAN BANG 2_CNTT\Project\WebAPI_QLNS\WebAPI_QLNS\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\NGHI DANG\Dropbox\My PC (LAPTOP-9NVMENQT)\Documents\VAN BANG 2_CNTT\Project\WebAPI_QLNS\WebAPI_QLNS\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\NGHI DANG\Dropbox\My PC (LAPTOP-9NVMENQT)\Documents\VAN BANG 2_CNTT\Project\WebAPI_QLNS\WebAPI_QLNS\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\NGHI DANG\Dropbox\My PC (LAPTOP-9NVMENQT)\Documents\VAN BANG 2_CNTT\Project\WebAPI_QLNS\WebAPI_QLNS\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\NGHI DANG\Dropbox\My PC (LAPTOP-9NVMENQT)\Documents\VAN BANG 2_CNTT\Project\WebAPI_QLNS\WebAPI_QLNS\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\NGHI DANG\Dropbox\My PC (LAPTOP-9NVMENQT)\Documents\VAN BANG 2_CNTT\Project\WebAPI_QLNS\WebAPI_QLNS\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\NGHI DANG\Dropbox\My PC (LAPTOP-9NVMENQT)\Documents\VAN BANG 2_CNTT\Project\WebAPI_QLNS\WebAPI_QLNS\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\NGHI DANG\Dropbox\My PC (LAPTOP-9NVMENQT)\Documents\VAN BANG 2_CNTT\Project\WebAPI_QLNS\WebAPI_QLNS\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\NGHI DANG\Dropbox\My PC (LAPTOP-9NVMENQT)\Documents\VAN BANG 2_CNTT\Project\WebAPI_QLNS\WebAPI_QLNS\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\NGHI DANG\Dropbox\My PC (LAPTOP-9NVMENQT)\Documents\VAN BANG 2_CNTT\Project\WebAPI_QLNS\WebAPI_QLNS\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\NGHI DANG\Dropbox\My PC (LAPTOP-9NVMENQT)\Documents\VAN BANG 2_CNTT\Project\WebAPI_QLNS\WebAPI_QLNS\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\NGHI DANG\Dropbox\My PC (LAPTOP-9NVMENQT)\Documents\VAN BANG 2_CNTT\Project\WebAPI_QLNS\WebAPI_QLNS\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\NGHI DANG\Dropbox\My PC (LAPTOP-9NVMENQT)\Documents\VAN BANG 2_CNTT\Project\WebAPI_QLNS\WebAPI_QLNS\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\NGHI DANG\Dropbox\My PC (LAPTOP-9NVMENQT)\Documents\VAN BANG 2_CNTT\Project\WebAPI_QLNS\WebAPI_QLNS\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\NGHI DANG\Dropbox\My PC (LAPTOP-9NVMENQT)\Documents\VAN BANG 2_CNTT\Project\WebAPI_QLNS\WebAPI_QLNS\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\NGHI DANG\Dropbox\My PC (LAPTOP-9NVMENQT)\Documents\VAN BANG 2_CNTT\Project\WebAPI_QLNS\WebAPI_QLNS\obj\Debug\net5.0\WebAPI_QLNS.csproj.AssemblyReference.cache
+C:\Users\NGHI DANG\Dropbox\My PC (LAPTOP-9NVMENQT)\Documents\VAN BANG 2_CNTT\Project\WebAPI_QLNS\WebAPI_QLNS\obj\Debug\net5.0\WebAPI_QLNS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NGHI DANG\Dropbox\My PC (LAPTOP-9NVMENQT)\Documents\VAN BANG 2_CNTT\Project\WebAPI_QLNS\WebAPI_QLNS\obj\Debug\net5.0\WebAPI_QLNS.AssemblyInfoInputs.cache
+C:\Users\NGHI DANG\Dropbox\My PC (LAPTOP-9NVMENQT)\Documents\VAN BANG 2_CNTT\Project\WebAPI_QLNS\WebAPI_QLNS\obj\Debug\net5.0\WebAPI_QLNS.AssemblyInfo.cs
+C:\Users\NGHI DANG\Dropbox\My PC (LAPTOP-9NVMENQT)\Documents\VAN BANG 2_CNTT\Project\WebAPI_QLNS\WebAPI_QLNS\obj\Debug\net5.0\WebAPI_QLNS.csproj.CoreCompileInputs.cache
+C:\Users\NGHI DANG\Dropbox\My PC (LAPTOP-9NVMENQT)\Documents\VAN BANG 2_CNTT\Project\WebAPI_QLNS\WebAPI_QLNS\obj\Debug\net5.0\WebAPI_QLNS.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\NGHI DANG\Dropbox\My PC (LAPTOP-9NVMENQT)\Documents\VAN BANG 2_CNTT\Project\WebAPI_QLNS\WebAPI_QLNS\obj\Debug\net5.0\WebAPI_QLNS.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\NGHI DANG\Dropbox\My PC (LAPTOP-9NVMENQT)\Documents\VAN BANG 2_CNTT\Project\WebAPI_QLNS\WebAPI_QLNS\obj\Debug\net5.0\scopedcss\bundle\WebAPI_QLNS.styles.css
+C:\Users\NGHI DANG\Dropbox\My PC (LAPTOP-9NVMENQT)\Documents\VAN BANG 2_CNTT\Project\WebAPI_QLNS\WebAPI_QLNS\obj\Debug\net5.0\staticwebassets\WebAPI_QLNS.StaticWebAssets.Manifest.cache
+C:\Users\NGHI DANG\Dropbox\My PC (LAPTOP-9NVMENQT)\Documents\VAN BANG 2_CNTT\Project\WebAPI_QLNS\WebAPI_QLNS\obj\Debug\net5.0\staticwebassets\WebAPI_QLNS.StaticWebAssets.Pack.cache
+C:\Users\NGHI DANG\Dropbox\My PC (LAPTOP-9NVMENQT)\Documents\VAN BANG 2_CNTT\Project\WebAPI_QLNS\WebAPI_QLNS\obj\Debug\net5.0\staticwebassets\msbuild.WebAPI_QLNS.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\NGHI DANG\Dropbox\My PC (LAPTOP-9NVMENQT)\Documents\VAN BANG 2_CNTT\Project\WebAPI_QLNS\WebAPI_QLNS\obj\Debug\net5.0\staticwebassets\msbuild.build.WebAPI_QLNS.props
+C:\Users\NGHI DANG\Dropbox\My PC (LAPTOP-9NVMENQT)\Documents\VAN BANG 2_CNTT\Project\WebAPI_QLNS\WebAPI_QLNS\obj\Debug\net5.0\staticwebassets\msbuild.buildMultiTargeting.WebAPI_QLNS.props
+C:\Users\NGHI DANG\Dropbox\My PC (LAPTOP-9NVMENQT)\Documents\VAN BANG 2_CNTT\Project\WebAPI_QLNS\WebAPI_QLNS\obj\Debug\net5.0\staticwebassets\msbuild.buildTransitive.WebAPI_QLNS.props
+C:\Users\NGHI DANG\Dropbox\My PC (LAPTOP-9NVMENQT)\Documents\VAN BANG 2_CNTT\Project\WebAPI_QLNS\WebAPI_QLNS\obj\Debug\net5.0\WebAPI_QLNS.RazorTargetAssemblyInfo.cache
+C:\Users\NGHI DANG\Dropbox\My PC (LAPTOP-9NVMENQT)\Documents\VAN BANG 2_CNTT\Project\WebAPI_QLNS\WebAPI_QLNS\obj\Debug\net5.0\WebAPI_QLNS.csproj.CopyComplete
+C:\Users\NGHI DANG\Dropbox\My PC (LAPTOP-9NVMENQT)\Documents\VAN BANG 2_CNTT\Project\WebAPI_QLNS\WebAPI_QLNS\obj\Debug\net5.0\WebAPI_QLNS.dll
+C:\Users\NGHI DANG\Dropbox\My PC (LAPTOP-9NVMENQT)\Documents\VAN BANG 2_CNTT\Project\WebAPI_QLNS\WebAPI_QLNS\obj\Debug\net5.0\refint\WebAPI_QLNS.dll
+C:\Users\NGHI DANG\Dropbox\My PC (LAPTOP-9NVMENQT)\Documents\VAN BANG 2_CNTT\Project\WebAPI_QLNS\WebAPI_QLNS\obj\Debug\net5.0\WebAPI_QLNS.pdb
+C:\Users\NGHI DANG\Dropbox\My PC (LAPTOP-9NVMENQT)\Documents\VAN BANG 2_CNTT\Project\WebAPI_QLNS\WebAPI_QLNS\obj\Debug\net5.0\WebAPI_QLNS.genruntimeconfig.cache
+C:\Users\NGHI DANG\Dropbox\My PC (LAPTOP-9NVMENQT)\Documents\VAN BANG 2_CNTT\Project\WebAPI_QLNS\WebAPI_QLNS\obj\Debug\net5.0\ref\WebAPI_QLNS.dll
