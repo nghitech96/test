@@ -1,0 +1,392 @@
+D:\DANG KY HK 5\tkpm\20880008_20880028\1988260-20880061\SourceCode\Quanly_NhaSach\Quanly_NhaSach\bin\Debug\net5.0-windows\Quanly_NhaSach.exe
+D:\DANG KY HK 5\tkpm\20880008_20880028\1988260-20880061\SourceCode\Quanly_NhaSach\Quanly_NhaSach\bin\Debug\net5.0-windows\Quanly_NhaSach.deps.json
+D:\DANG KY HK 5\tkpm\20880008_20880028\1988260-20880061\SourceCode\Quanly_NhaSach\Quanly_NhaSach\bin\Debug\net5.0-windows\Quanly_NhaSach.runtimeconfig.json
+D:\DANG KY HK 5\tkpm\20880008_20880028\1988260-20880061\SourceCode\Quanly_NhaSach\Quanly_NhaSach\bin\Debug\net5.0-windows\Quanly_NhaSach.runtimeconfig.dev.json
+D:\DANG KY HK 5\tkpm\20880008_20880028\1988260-20880061\SourceCode\Quanly_NhaSach\Quanly_NhaSach\bin\Debug\net5.0-windows\Quanly_NhaSach.dll
+D:\DANG KY HK 5\tkpm\20880008_20880028\1988260-20880061\SourceCode\Quanly_NhaSach\Quanly_NhaSach\bin\Debug\net5.0-windows\ref\Quanly_NhaSach.dll
+D:\DANG KY HK 5\tkpm\20880008_20880028\1988260-20880061\SourceCode\Quanly_NhaSach\Quanly_NhaSach\bin\Debug\net5.0-windows\Quanly_NhaSach.pdb
+D:\DANG KY HK 5\tkpm\20880008_20880028\1988260-20880061\SourceCode\Quanly_NhaSach\Quanly_NhaSach\bin\Debug\net5.0-windows\AutoMapper.dll
+D:\DANG KY HK 5\tkpm\20880008_20880028\1988260-20880061\SourceCode\Quanly_NhaSach\Quanly_NhaSach\bin\Debug\net5.0-windows\Microsoft.AspNetCore.dll
+D:\DANG KY HK 5\tkpm\20880008_20880028\1988260-20880061\SourceCode\Quanly_NhaSach\Quanly_NhaSach\bin\Debug\net5.0-windows\Microsoft.AspNetCore.Authentication.Abstractions.dll
+D:\DANG KY HK 5\tkpm\20880008_20880028\1988260-20880061\SourceCode\Quanly_NhaSach\Quanly_NhaSach\bin\Debug\net5.0-windows\Microsoft.AspNetCore.Authentication.Core.dll
+D:\DANG KY HK 5\tkpm\20880008_20880028\1988260-20880061\SourceCode\Quanly_NhaSach\Quanly_NhaSach\bin\Debug\net5.0-windows\Microsoft.AspNetCore.Connections.Abstractions.dll
+D:\DANG KY HK 5\tkpm\20880008_20880028\1988260-20880061\SourceCode\Quanly_NhaSach\Quanly_NhaSach\bin\Debug\net5.0-windows\Microsoft.AspNetCore.Diagnostics.dll
+D:\DANG KY HK 5\tkpm\20880008_20880028\1988260-20880061\SourceCode\Quanly_NhaSach\Quanly_NhaSach\bin\Debug\net5.0-windows\Microsoft.AspNetCore.Diagnostics.Abstractions.dll
+D:\DANG KY HK 5\tkpm\20880008_20880028\1988260-20880061\SourceCode\Quanly_NhaSach\Quanly_NhaSach\bin\Debug\net5.0-windows\Microsoft.AspNetCore.HostFiltering.dll
+D:\DANG KY HK 5\tkpm\20880008_20880028\1988260-20880061\SourceCode\Quanly_NhaSach\Quanly_NhaSach\bin\Debug\net5.0-windows\Microsoft.AspNetCore.Hosting.dll
+D:\DANG KY HK 5\tkpm\20880008_20880028\1988260-20880061\SourceCode\Quanly_NhaSach\Quanly_NhaSach\bin\Debug\net5.0-windows\Microsoft.AspNetCore.Hosting.Abstractions.dll
+D:\DANG KY HK 5\tkpm\20880008_20880028\1988260-20880061\SourceCode\Quanly_NhaSach\Quanly_NhaSach\bin\Debug\net5.0-windows\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+D:\DANG KY HK 5\tkpm\20880008_20880028\1988260-20880061\SourceCode\Quanly_NhaSach\Quanly_NhaSach\bin\Debug\net5.0-windows\Microsoft.AspNetCore.Http.dll
+D:\DANG KY HK 5\tkpm\20880008_20880028\1988260-20880061\SourceCode\Quanly_NhaSach\Quanly_NhaSach\bin\Debug\net5.0-windows\Microsoft.AspNetCore.Http.Abstractions.dll
+D:\DANG KY HK 5\tkpm\20880008_20880028\1988260-20880061\SourceCode\Quanly_NhaSach\Quanly_NhaSach\bin\Debug\net5.0-windows\Microsoft.AspNetCore.Http.Extensions.dll
+D:\DANG KY HK 5\tkpm\20880008_20880028\1988260-20880061\SourceCode\Quanly_NhaSach\Quanly_NhaSach\bin\Debug\net5.0-windows\Microsoft.AspNetCore.Http.Features.dll
+D:\DANG KY HK 5\tkpm\20880008_20880028\1988260-20880061\SourceCode\Quanly_NhaSach\Quanly_NhaSach\bin\Debug\net5.0-windows\Microsoft.AspNetCore.HttpOverrides.dll
+D:\DANG KY HK 5\tkpm\20880008_20880028\1988260-20880061\SourceCode\Quanly_NhaSach\Quanly_NhaSach\bin\Debug\net5.0-windows\Microsoft.AspNetCore.Routing.dll
+D:\DANG KY HK 5\tkpm\20880008_20880028\1988260-20880061\SourceCode\Quanly_NhaSach\Quanly_NhaSach\bin\Debug\net5.0-windows\Microsoft.AspNetCore.Routing.Abstractions.dll
+D:\DANG KY HK 5\tkpm\20880008_20880028\1988260-20880061\SourceCode\Quanly_NhaSach\Quanly_NhaSach\bin\Debug\net5.0-windows\Microsoft.AspNetCore.Server.IIS.dll
+D:\DANG KY HK 5\tkpm\20880008_20880028\1988260-20880061\SourceCode\Quanly_NhaSach\Quanly_NhaSach\bin\Debug\net5.0-windows\Microsoft.AspNetCore.Server.IISIntegration.dll
+D:\DANG KY HK 5\tkpm\20880008_20880028\1988260-20880061\SourceCode\Quanly_NhaSach\Quanly_NhaSach\bin\Debug\net5.0-windows\Microsoft.AspNetCore.Server.Kestrel.dll
+D:\DANG KY HK 5\tkpm\20880008_20880028\1988260-20880061\SourceCode\Quanly_NhaSach\Quanly_NhaSach\bin\Debug\net5.0-windows\Microsoft.AspNetCore.Server.Kestrel.Core.dll
+D:\DANG KY HK 5\tkpm\20880008_20880028\1988260-20880061\SourceCode\Quanly_NhaSach\Quanly_NhaSach\bin\Debug\net5.0-windows\Microsoft.AspNetCore.Server.Kestrel.Https.dll
+D:\DANG KY HK 5\tkpm\20880008_20880028\1988260-20880061\SourceCode\Quanly_NhaSach\Quanly_NhaSach\bin\Debug\net5.0-windows\Microsoft.AspNetCore.Server.Kestrel.Transport.Abstractions.dll
+D:\DANG KY HK 5\tkpm\20880008_20880028\1988260-20880061\SourceCode\Quanly_NhaSach\Quanly_NhaSach\bin\Debug\net5.0-windows\Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.dll
+D:\DANG KY HK 5\tkpm\20880008_20880028\1988260-20880061\SourceCode\Quanly_NhaSach\Quanly_NhaSach\bin\Debug\net5.0-windows\Microsoft.AspNetCore.WebUtilities.dll
+D:\DANG KY HK 5\tkpm\20880008_20880028\1988260-20880061\SourceCode\Quanly_NhaSach\Quanly_NhaSach\bin\Debug\net5.0-windows\Microsoft.Extensions.Configuration.dll
+D:\DANG KY HK 5\tkpm\20880008_20880028\1988260-20880061\SourceCode\Quanly_NhaSach\Quanly_NhaSach\bin\Debug\net5.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\DANG KY HK 5\tkpm\20880008_20880028\1988260-20880061\SourceCode\Quanly_NhaSach\Quanly_NhaSach\bin\Debug\net5.0-windows\Microsoft.Extensions.Configuration.Binder.dll
+D:\DANG KY HK 5\tkpm\20880008_20880028\1988260-20880061\SourceCode\Quanly_NhaSach\Quanly_NhaSach\bin\Debug\net5.0-windows\Microsoft.Extensions.Configuration.CommandLine.dll
+D:\DANG KY HK 5\tkpm\20880008_20880028\1988260-20880061\SourceCode\Quanly_NhaSach\Quanly_NhaSach\bin\Debug\net5.0-windows\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+D:\DANG KY HK 5\tkpm\20880008_20880028\1988260-20880061\SourceCode\Quanly_NhaSach\Quanly_NhaSach\bin\Debug\net5.0-windows\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\DANG KY HK 5\tkpm\20880008_20880028\1988260-20880061\SourceCode\Quanly_NhaSach\Quanly_NhaSach\bin\Debug\net5.0-windows\Microsoft.Extensions.Configuration.Json.dll
+D:\DANG KY HK 5\tkpm\20880008_20880028\1988260-20880061\SourceCode\Quanly_NhaSach\Quanly_NhaSach\bin\Debug\net5.0-windows\Microsoft.Extensions.Configuration.UserSecrets.dll
+D:\DANG KY HK 5\tkpm\20880008_20880028\1988260-20880061\SourceCode\Quanly_NhaSach\Quanly_NhaSach\bin\Debug\net5.0-windows\Microsoft.Extensions.DependencyInjection.dll
+D:\DANG KY HK 5\tkpm\20880008_20880028\1988260-20880061\SourceCode\Quanly_NhaSach\Quanly_NhaSach\bin\Debug\net5.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\DANG KY HK 5\tkpm\20880008_20880028\1988260-20880061\SourceCode\Quanly_NhaSach\Quanly_NhaSach\bin\Debug\net5.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\DANG KY HK 5\tkpm\20880008_20880028\1988260-20880061\SourceCode\Quanly_NhaSach\Quanly_NhaSach\bin\Debug\net5.0-windows\Microsoft.Extensions.FileProviders.Physical.dll
+D:\DANG KY HK 5\tkpm\20880008_20880028\1988260-20880061\SourceCode\Quanly_NhaSach\Quanly_NhaSach\bin\Debug\net5.0-windows\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\DANG KY HK 5\tkpm\20880008_20880028\1988260-20880061\SourceCode\Quanly_NhaSach\Quanly_NhaSach\bin\Debug\net5.0-windows\Microsoft.Extensions.Hosting.Abstractions.dll
+D:\DANG KY HK 5\tkpm\20880008_20880028\1988260-20880061\SourceCode\Quanly_NhaSach\Quanly_NhaSach\bin\Debug\net5.0-windows\Microsoft.Extensions.Logging.dll
+D:\DANG KY HK 5\tkpm\20880008_20880028\1988260-20880061\SourceCode\Quanly_NhaSach\Quanly_NhaSach\bin\Debug\net5.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+D:\DANG KY HK 5\tkpm\20880008_20880028\1988260-20880061\SourceCode\Quanly_NhaSach\Quanly_NhaSach\bin\Debug\net5.0-windows\Microsoft.Extensions.Logging.Configuration.dll
+D:\DANG KY HK 5\tkpm\20880008_20880028\1988260-20880061\SourceCode\Quanly_NhaSach\Quanly_NhaSach\bin\Debug\net5.0-windows\Microsoft.Extensions.Logging.Console.dll
+D:\DANG KY HK 5\tkpm\20880008_20880028\1988260-20880061\SourceCode\Quanly_NhaSach\Quanly_NhaSach\bin\Debug\net5.0-windows\Microsoft.Extensions.Logging.Debug.dll
+D:\DANG KY HK 5\tkpm\20880008_20880028\1988260-20880061\SourceCode\Quanly_NhaSach\Quanly_NhaSach\bin\Debug\net5.0-windows\Microsoft.Extensions.Logging.EventSource.dll
+D:\DANG KY HK 5\tkpm\20880008_20880028\1988260-20880061\SourceCode\Quanly_NhaSach\Quanly_NhaSach\bin\Debug\net5.0-windows\Microsoft.Extensions.ObjectPool.dll
+D:\DANG KY HK 5\tkpm\20880008_20880028\1988260-20880061\SourceCode\Quanly_NhaSach\Quanly_NhaSach\bin\Debug\net5.0-windows\Microsoft.Extensions.Options.dll
+D:\DANG KY HK 5\tkpm\20880008_20880028\1988260-20880061\SourceCode\Quanly_NhaSach\Quanly_NhaSach\bin\Debug\net5.0-windows\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+D:\DANG KY HK 5\tkpm\20880008_20880028\1988260-20880061\SourceCode\Quanly_NhaSach\Quanly_NhaSach\bin\Debug\net5.0-windows\Microsoft.Extensions.Primitives.dll
+D:\DANG KY HK 5\tkpm\20880008_20880028\1988260-20880061\SourceCode\Quanly_NhaSach\Quanly_NhaSach\bin\Debug\net5.0-windows\Microsoft.Net.Http.Headers.dll
+D:\DANG KY HK 5\tkpm\20880008_20880028\1988260-20880061\SourceCode\Quanly_NhaSach\Quanly_NhaSach\bin\Debug\net5.0-windows\Newtonsoft.Json.dll
+D:\DANG KY HK 5\tkpm\20880008_20880028\1988260-20880061\SourceCode\Quanly_NhaSach\Quanly_NhaSach\bin\Debug\net5.0-windows\System.IO.Pipelines.dll
+D:\DANG KY HK 5\tkpm\20880008_20880028\1988260-20880061\SourceCode\Quanly_NhaSach\Quanly_NhaSach\bin\Debug\net5.0-windows\runtimes\win-x64\nativeassets\netcoreapp2.2\aspnetcorev2_inprocess.dll
+D:\DANG KY HK 5\tkpm\20880008_20880028\1988260-20880061\SourceCode\Quanly_NhaSach\Quanly_NhaSach\bin\Debug\net5.0-windows\runtimes\win-x86\nativeassets\netcoreapp2.2\aspnetcorev2_inprocess.dll
+D:\DANG KY HK 5\tkpm\20880008_20880028\1988260-20880061\SourceCode\Quanly_NhaSach\Quanly_NhaSach\obj\Debug\net5.0-windows\Quanly_NhaSach.csprojAssemblyReference.cache
+D:\DANG KY HK 5\tkpm\20880008_20880028\1988260-20880061\SourceCode\Quanly_NhaSach\Quanly_NhaSach\obj\Debug\net5.0-windows\Quanly_NhaSach.frmMain.resources
+D:\DANG KY HK 5\tkpm\20880008_20880028\1988260-20880061\SourceCode\Quanly_NhaSach\Quanly_NhaSach\obj\Debug\net5.0-windows\Quanly_NhaSach.UI.frmBaoCao_CongNo.resources
+D:\DANG KY HK 5\tkpm\20880008_20880028\1988260-20880061\SourceCode\Quanly_NhaSach\Quanly_NhaSach\obj\Debug\net5.0-windows\Quanly_NhaSach.UI.frmBaoCao_CongNoChiTiet.resources
+D:\DANG KY HK 5\tkpm\20880008_20880028\1988260-20880061\SourceCode\Quanly_NhaSach\Quanly_NhaSach\obj\Debug\net5.0-windows\Quanly_NhaSach.UI.frmBaocao_XuatNhap.resources
+D:\DANG KY HK 5\tkpm\20880008_20880028\1988260-20880061\SourceCode\Quanly_NhaSach\Quanly_NhaSach\obj\Debug\net5.0-windows\Quanly_NhaSach.UI.frmChitietNo.resources
+D:\DANG KY HK 5\tkpm\20880008_20880028\1988260-20880061\SourceCode\Quanly_NhaSach\Quanly_NhaSach\obj\Debug\net5.0-windows\Quanly_NhaSach.UI.frmDangNhap.resources
+D:\DANG KY HK 5\tkpm\20880008_20880028\1988260-20880061\SourceCode\Quanly_NhaSach\Quanly_NhaSach\obj\Debug\net5.0-windows\Quanly_NhaSach.UI.frmHoaDonBanHang.resources
+D:\DANG KY HK 5\tkpm\20880008_20880028\1988260-20880061\SourceCode\Quanly_NhaSach\Quanly_NhaSach\obj\Debug\net5.0-windows\Quanly_NhaSach.UI.frmHoaDonTimKiem.resources
+D:\DANG KY HK 5\tkpm\20880008_20880028\1988260-20880061\SourceCode\Quanly_NhaSach\Quanly_NhaSach\obj\Debug\net5.0-windows\Quanly_NhaSach.UI.frmKhachHang.resources
+D:\DANG KY HK 5\tkpm\20880008_20880028\1988260-20880061\SourceCode\Quanly_NhaSach\Quanly_NhaSach\obj\Debug\net5.0-windows\Quanly_NhaSach.UI.frmKhachHangTimKiem.resources
+D:\DANG KY HK 5\tkpm\20880008_20880028\1988260-20880061\SourceCode\Quanly_NhaSach\Quanly_NhaSach\obj\Debug\net5.0-windows\Quanly_NhaSach.UI.frmNguoiDung.resources
+D:\DANG KY HK 5\tkpm\20880008_20880028\1988260-20880061\SourceCode\Quanly_NhaSach\Quanly_NhaSach\obj\Debug\net5.0-windows\Quanly_NhaSach.UI.frmNguoidungTimkiem.resources
+D:\DANG KY HK 5\tkpm\20880008_20880028\1988260-20880061\SourceCode\Quanly_NhaSach\Quanly_NhaSach\obj\Debug\net5.0-windows\Quanly_NhaSach.UI.frmNhanVien.resources
+D:\DANG KY HK 5\tkpm\20880008_20880028\1988260-20880061\SourceCode\Quanly_NhaSach\Quanly_NhaSach\obj\Debug\net5.0-windows\Quanly_NhaSach.UI.frmNhanvienTimkiem.resources
+D:\DANG KY HK 5\tkpm\20880008_20880028\1988260-20880061\SourceCode\Quanly_NhaSach\Quanly_NhaSach\obj\Debug\net5.0-windows\Quanly_NhaSach.UI.frmPhieuNhapSach.resources
+D:\DANG KY HK 5\tkpm\20880008_20880028\1988260-20880061\SourceCode\Quanly_NhaSach\Quanly_NhaSach\obj\Debug\net5.0-windows\Quanly_NhaSach.UI.frmPhieuThuTien.resources
+D:\DANG KY HK 5\tkpm\20880008_20880028\1988260-20880061\SourceCode\Quanly_NhaSach\Quanly_NhaSach\obj\Debug\net5.0-windows\Quanly_NhaSach.UI.frmPhieuThuTien_TimKiem.resources
+D:\DANG KY HK 5\tkpm\20880008_20880028\1988260-20880061\SourceCode\Quanly_NhaSach\Quanly_NhaSach\obj\Debug\net5.0-windows\Quanly_NhaSach.UI.frmQuyDinh.resources
+D:\DANG KY HK 5\tkpm\20880008_20880028\1988260-20880061\SourceCode\Quanly_NhaSach\Quanly_NhaSach\obj\Debug\net5.0-windows\Quanly_NhaSach.UI.frmSach.resources
+D:\DANG KY HK 5\tkpm\20880008_20880028\1988260-20880061\SourceCode\Quanly_NhaSach\Quanly_NhaSach\obj\Debug\net5.0-windows\Quanly_NhaSach.UI.frmSachTimkiem.resources
+D:\DANG KY HK 5\tkpm\20880008_20880028\1988260-20880061\SourceCode\Quanly_NhaSach\Quanly_NhaSach\obj\Debug\net5.0-windows\Quanly_NhaSach.UI.frmTacGia.resources
+D:\DANG KY HK 5\tkpm\20880008_20880028\1988260-20880061\SourceCode\Quanly_NhaSach\Quanly_NhaSach\obj\Debug\net5.0-windows\Quanly_NhaSach.UI.frmTheLoai.resources
+D:\DANG KY HK 5\tkpm\20880008_20880028\1988260-20880061\SourceCode\Quanly_NhaSach\Quanly_NhaSach\obj\Debug\net5.0-windows\Quanly_NhaSach.UI.frmTracuuSach.resources
+D:\DANG KY HK 5\tkpm\20880008_20880028\1988260-20880061\SourceCode\Quanly_NhaSach\Quanly_NhaSach\obj\Debug\net5.0-windows\Quanly_NhaSach.csproj.GenerateResource.cache
+D:\DANG KY HK 5\tkpm\20880008_20880028\1988260-20880061\SourceCode\Quanly_NhaSach\Quanly_NhaSach\obj\Debug\net5.0-windows\Quanly_NhaSach.GeneratedMSBuildEditorConfig.editorconfig
+D:\DANG KY HK 5\tkpm\20880008_20880028\1988260-20880061\SourceCode\Quanly_NhaSach\Quanly_NhaSach\obj\Debug\net5.0-windows\Quanly_NhaSach.AssemblyInfoInputs.cache
+D:\DANG KY HK 5\tkpm\20880008_20880028\1988260-20880061\SourceCode\Quanly_NhaSach\Quanly_NhaSach\obj\Debug\net5.0-windows\Quanly_NhaSach.AssemblyInfo.cs
+D:\DANG KY HK 5\tkpm\20880008_20880028\1988260-20880061\SourceCode\Quanly_NhaSach\Quanly_NhaSach\obj\Debug\net5.0-windows\Quanly_NhaSach.csproj.CoreCompileInputs.cache
+D:\DANG KY HK 5\tkpm\20880008_20880028\1988260-20880061\SourceCode\Quanly_NhaSach\Quanly_NhaSach\obj\Debug\net5.0-windows\Quanly_NhaSach.csproj.Fody.CopyLocal.cache
+D:\DANG KY HK 5\tkpm\20880008_20880028\1988260-20880061\SourceCode\Quanly_NhaSach\Quanly_NhaSach\obj\Debug\net5.0-windows\Quanly_NhaSach.csproj.Fody.RuntimeCopyLocal.cache
+D:\DANG KY HK 5\tkpm\20880008_20880028\1988260-20880061\SourceCode\Quanly_NhaSach\Quanly_NhaSach\obj\Debug\net5.0-windows\Quanly_NhaSach.csproj.CopyComplete
+D:\DANG KY HK 5\tkpm\20880008_20880028\1988260-20880061\SourceCode\Quanly_NhaSach\Quanly_NhaSach\obj\Debug\net5.0-windows\Quanly_NhaSach.dll
+D:\DANG KY HK 5\tkpm\20880008_20880028\1988260-20880061\SourceCode\Quanly_NhaSach\Quanly_NhaSach\obj\Debug\net5.0-windows\ref\Quanly_NhaSach.dll
+D:\DANG KY HK 5\tkpm\20880008_20880028\1988260-20880061\SourceCode\Quanly_NhaSach\Quanly_NhaSach\obj\Debug\net5.0-windows\Quanly_NhaSach.pdb
+D:\DANG KY HK 5\tkpm\20880008_20880028\1988260-20880061\SourceCode\Quanly_NhaSach\Quanly_NhaSach\obj\Debug\net5.0-windows\Quanly_NhaSach.genruntimeconfig.cache
+E:\1. Hoc CNTT VB2\12. TKPM\1988260-20880061\SourceCode\Quanly_NhaSach\Quanly_NhaSach\bin\Debug\net5.0-windows\Quanly_NhaSach.exe
+E:\1. Hoc CNTT VB2\12. TKPM\1988260-20880061\SourceCode\Quanly_NhaSach\Quanly_NhaSach\bin\Debug\net5.0-windows\Quanly_NhaSach.deps.json
+E:\1. Hoc CNTT VB2\12. TKPM\1988260-20880061\SourceCode\Quanly_NhaSach\Quanly_NhaSach\bin\Debug\net5.0-windows\Quanly_NhaSach.runtimeconfig.json
+E:\1. Hoc CNTT VB2\12. TKPM\1988260-20880061\SourceCode\Quanly_NhaSach\Quanly_NhaSach\bin\Debug\net5.0-windows\Quanly_NhaSach.runtimeconfig.dev.json
+E:\1. Hoc CNTT VB2\12. TKPM\1988260-20880061\SourceCode\Quanly_NhaSach\Quanly_NhaSach\bin\Debug\net5.0-windows\Quanly_NhaSach.dll
+E:\1. Hoc CNTT VB2\12. TKPM\1988260-20880061\SourceCode\Quanly_NhaSach\Quanly_NhaSach\bin\Debug\net5.0-windows\ref\Quanly_NhaSach.dll
+E:\1. Hoc CNTT VB2\12. TKPM\1988260-20880061\SourceCode\Quanly_NhaSach\Quanly_NhaSach\bin\Debug\net5.0-windows\Quanly_NhaSach.pdb
+E:\1. Hoc CNTT VB2\12. TKPM\1988260-20880061\SourceCode\Quanly_NhaSach\Quanly_NhaSach\bin\Debug\net5.0-windows\AutoMapper.dll
+E:\1. Hoc CNTT VB2\12. TKPM\1988260-20880061\SourceCode\Quanly_NhaSach\Quanly_NhaSach\bin\Debug\net5.0-windows\Microsoft.AspNetCore.dll
+E:\1. Hoc CNTT VB2\12. TKPM\1988260-20880061\SourceCode\Quanly_NhaSach\Quanly_NhaSach\bin\Debug\net5.0-windows\Microsoft.AspNetCore.Authentication.Abstractions.dll
+E:\1. Hoc CNTT VB2\12. TKPM\1988260-20880061\SourceCode\Quanly_NhaSach\Quanly_NhaSach\bin\Debug\net5.0-windows\Microsoft.AspNetCore.Authentication.Core.dll
+E:\1. Hoc CNTT VB2\12. TKPM\1988260-20880061\SourceCode\Quanly_NhaSach\Quanly_NhaSach\bin\Debug\net5.0-windows\Microsoft.AspNetCore.Connections.Abstractions.dll
+E:\1. Hoc CNTT VB2\12. TKPM\1988260-20880061\SourceCode\Quanly_NhaSach\Quanly_NhaSach\bin\Debug\net5.0-windows\Microsoft.AspNetCore.Diagnostics.dll
+E:\1. Hoc CNTT VB2\12. TKPM\1988260-20880061\SourceCode\Quanly_NhaSach\Quanly_NhaSach\bin\Debug\net5.0-windows\Microsoft.AspNetCore.Diagnostics.Abstractions.dll
+E:\1. Hoc CNTT VB2\12. TKPM\1988260-20880061\SourceCode\Quanly_NhaSach\Quanly_NhaSach\bin\Debug\net5.0-windows\Microsoft.AspNetCore.HostFiltering.dll
+E:\1. Hoc CNTT VB2\12. TKPM\1988260-20880061\SourceCode\Quanly_NhaSach\Quanly_NhaSach\bin\Debug\net5.0-windows\Microsoft.AspNetCore.Hosting.dll
+E:\1. Hoc CNTT VB2\12. TKPM\1988260-20880061\SourceCode\Quanly_NhaSach\Quanly_NhaSach\bin\Debug\net5.0-windows\Microsoft.AspNetCore.Hosting.Abstractions.dll
+E:\1. Hoc CNTT VB2\12. TKPM\1988260-20880061\SourceCode\Quanly_NhaSach\Quanly_NhaSach\bin\Debug\net5.0-windows\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+E:\1. Hoc CNTT VB2\12. TKPM\1988260-20880061\SourceCode\Quanly_NhaSach\Quanly_NhaSach\bin\Debug\net5.0-windows\Microsoft.AspNetCore.Http.dll
+E:\1. Hoc CNTT VB2\12. TKPM\1988260-20880061\SourceCode\Quanly_NhaSach\Quanly_NhaSach\bin\Debug\net5.0-windows\Microsoft.AspNetCore.Http.Abstractions.dll
+E:\1. Hoc CNTT VB2\12. TKPM\1988260-20880061\SourceCode\Quanly_NhaSach\Quanly_NhaSach\bin\Debug\net5.0-windows\Microsoft.AspNetCore.Http.Extensions.dll
+E:\1. Hoc CNTT VB2\12. TKPM\1988260-20880061\SourceCode\Quanly_NhaSach\Quanly_NhaSach\bin\Debug\net5.0-windows\Microsoft.AspNetCore.Http.Features.dll
+E:\1. Hoc CNTT VB2\12. TKPM\1988260-20880061\SourceCode\Quanly_NhaSach\Quanly_NhaSach\bin\Debug\net5.0-windows\Microsoft.AspNetCore.HttpOverrides.dll
+E:\1. Hoc CNTT VB2\12. TKPM\1988260-20880061\SourceCode\Quanly_NhaSach\Quanly_NhaSach\bin\Debug\net5.0-windows\Microsoft.AspNetCore.Routing.dll
+E:\1. Hoc CNTT VB2\12. TKPM\1988260-20880061\SourceCode\Quanly_NhaSach\Quanly_NhaSach\bin\Debug\net5.0-windows\Microsoft.AspNetCore.Routing.Abstractions.dll
+E:\1. Hoc CNTT VB2\12. TKPM\1988260-20880061\SourceCode\Quanly_NhaSach\Quanly_NhaSach\bin\Debug\net5.0-windows\Microsoft.AspNetCore.Server.IIS.dll
+E:\1. Hoc CNTT VB2\12. TKPM\1988260-20880061\SourceCode\Quanly_NhaSach\Quanly_NhaSach\bin\Debug\net5.0-windows\Microsoft.AspNetCore.Server.IISIntegration.dll
+E:\1. Hoc CNTT VB2\12. TKPM\1988260-20880061\SourceCode\Quanly_NhaSach\Quanly_NhaSach\bin\Debug\net5.0-windows\Microsoft.AspNetCore.Server.Kestrel.dll
+E:\1. Hoc CNTT VB2\12. TKPM\1988260-20880061\SourceCode\Quanly_NhaSach\Quanly_NhaSach\bin\Debug\net5.0-windows\Microsoft.AspNetCore.Server.Kestrel.Core.dll
+E:\1. Hoc CNTT VB2\12. TKPM\1988260-20880061\SourceCode\Quanly_NhaSach\Quanly_NhaSach\bin\Debug\net5.0-windows\Microsoft.AspNetCore.Server.Kestrel.Https.dll
+E:\1. Hoc CNTT VB2\12. TKPM\1988260-20880061\SourceCode\Quanly_NhaSach\Quanly_NhaSach\bin\Debug\net5.0-windows\Microsoft.AspNetCore.Server.Kestrel.Transport.Abstractions.dll
+E:\1. Hoc CNTT VB2\12. TKPM\1988260-20880061\SourceCode\Quanly_NhaSach\Quanly_NhaSach\bin\Debug\net5.0-windows\Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.dll
+E:\1. Hoc CNTT VB2\12. TKPM\1988260-20880061\SourceCode\Quanly_NhaSach\Quanly_NhaSach\bin\Debug\net5.0-windows\Microsoft.AspNetCore.WebUtilities.dll
+E:\1. Hoc CNTT VB2\12. TKPM\1988260-20880061\SourceCode\Quanly_NhaSach\Quanly_NhaSach\bin\Debug\net5.0-windows\Microsoft.Extensions.Configuration.dll
+E:\1. Hoc CNTT VB2\12. TKPM\1988260-20880061\SourceCode\Quanly_NhaSach\Quanly_NhaSach\bin\Debug\net5.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\1. Hoc CNTT VB2\12. TKPM\1988260-20880061\SourceCode\Quanly_NhaSach\Quanly_NhaSach\bin\Debug\net5.0-windows\Microsoft.Extensions.Configuration.Binder.dll
+E:\1. Hoc CNTT VB2\12. TKPM\1988260-20880061\SourceCode\Quanly_NhaSach\Quanly_NhaSach\bin\Debug\net5.0-windows\Microsoft.Extensions.Configuration.CommandLine.dll
+E:\1. Hoc CNTT VB2\12. TKPM\1988260-20880061\SourceCode\Quanly_NhaSach\Quanly_NhaSach\bin\Debug\net5.0-windows\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+E:\1. Hoc CNTT VB2\12. TKPM\1988260-20880061\SourceCode\Quanly_NhaSach\Quanly_NhaSach\bin\Debug\net5.0-windows\Microsoft.Extensions.Configuration.FileExtensions.dll
+E:\1. Hoc CNTT VB2\12. TKPM\1988260-20880061\SourceCode\Quanly_NhaSach\Quanly_NhaSach\bin\Debug\net5.0-windows\Microsoft.Extensions.Configuration.Json.dll
+E:\1. Hoc CNTT VB2\12. TKPM\1988260-20880061\SourceCode\Quanly_NhaSach\Quanly_NhaSach\bin\Debug\net5.0-windows\Microsoft.Extensions.Configuration.UserSecrets.dll
+E:\1. Hoc CNTT VB2\12. TKPM\1988260-20880061\SourceCode\Quanly_NhaSach\Quanly_NhaSach\bin\Debug\net5.0-windows\Microsoft.Extensions.DependencyInjection.dll
+E:\1. Hoc CNTT VB2\12. TKPM\1988260-20880061\SourceCode\Quanly_NhaSach\Quanly_NhaSach\bin\Debug\net5.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\1. Hoc CNTT VB2\12. TKPM\1988260-20880061\SourceCode\Quanly_NhaSach\Quanly_NhaSach\bin\Debug\net5.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+E:\1. Hoc CNTT VB2\12. TKPM\1988260-20880061\SourceCode\Quanly_NhaSach\Quanly_NhaSach\bin\Debug\net5.0-windows\Microsoft.Extensions.FileProviders.Physical.dll
+E:\1. Hoc CNTT VB2\12. TKPM\1988260-20880061\SourceCode\Quanly_NhaSach\Quanly_NhaSach\bin\Debug\net5.0-windows\Microsoft.Extensions.FileSystemGlobbing.dll
+E:\1. Hoc CNTT VB2\12. TKPM\1988260-20880061\SourceCode\Quanly_NhaSach\Quanly_NhaSach\bin\Debug\net5.0-windows\Microsoft.Extensions.Hosting.Abstractions.dll
+E:\1. Hoc CNTT VB2\12. TKPM\1988260-20880061\SourceCode\Quanly_NhaSach\Quanly_NhaSach\bin\Debug\net5.0-windows\Microsoft.Extensions.Logging.dll
+E:\1. Hoc CNTT VB2\12. TKPM\1988260-20880061\SourceCode\Quanly_NhaSach\Quanly_NhaSach\bin\Debug\net5.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+E:\1. Hoc CNTT VB2\12. TKPM\1988260-20880061\SourceCode\Quanly_NhaSach\Quanly_NhaSach\bin\Debug\net5.0-windows\Microsoft.Extensions.Logging.Configuration.dll
+E:\1. Hoc CNTT VB2\12. TKPM\1988260-20880061\SourceCode\Quanly_NhaSach\Quanly_NhaSach\bin\Debug\net5.0-windows\Microsoft.Extensions.Logging.Console.dll
+E:\1. Hoc CNTT VB2\12. TKPM\1988260-20880061\SourceCode\Quanly_NhaSach\Quanly_NhaSach\bin\Debug\net5.0-windows\Microsoft.Extensions.Logging.Debug.dll
+E:\1. Hoc CNTT VB2\12. TKPM\1988260-20880061\SourceCode\Quanly_NhaSach\Quanly_NhaSach\bin\Debug\net5.0-windows\Microsoft.Extensions.Logging.EventSource.dll
+E:\1. Hoc CNTT VB2\12. TKPM\1988260-20880061\SourceCode\Quanly_NhaSach\Quanly_NhaSach\bin\Debug\net5.0-windows\Microsoft.Extensions.ObjectPool.dll
+E:\1. Hoc CNTT VB2\12. TKPM\1988260-20880061\SourceCode\Quanly_NhaSach\Quanly_NhaSach\bin\Debug\net5.0-windows\Microsoft.Extensions.Options.dll
+E:\1. Hoc CNTT VB2\12. TKPM\1988260-20880061\SourceCode\Quanly_NhaSach\Quanly_NhaSach\bin\Debug\net5.0-windows\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+E:\1. Hoc CNTT VB2\12. TKPM\1988260-20880061\SourceCode\Quanly_NhaSach\Quanly_NhaSach\bin\Debug\net5.0-windows\Microsoft.Extensions.Primitives.dll
+E:\1. Hoc CNTT VB2\12. TKPM\1988260-20880061\SourceCode\Quanly_NhaSach\Quanly_NhaSach\bin\Debug\net5.0-windows\Microsoft.Net.Http.Headers.dll
+E:\1. Hoc CNTT VB2\12. TKPM\1988260-20880061\SourceCode\Quanly_NhaSach\Quanly_NhaSach\bin\Debug\net5.0-windows\Newtonsoft.Json.dll
+E:\1. Hoc CNTT VB2\12. TKPM\1988260-20880061\SourceCode\Quanly_NhaSach\Quanly_NhaSach\bin\Debug\net5.0-windows\System.IO.Pipelines.dll
+E:\1. Hoc CNTT VB2\12. TKPM\1988260-20880061\SourceCode\Quanly_NhaSach\Quanly_NhaSach\bin\Debug\net5.0-windows\runtimes\win-x64\nativeassets\netcoreapp2.2\aspnetcorev2_inprocess.dll
+E:\1. Hoc CNTT VB2\12. TKPM\1988260-20880061\SourceCode\Quanly_NhaSach\Quanly_NhaSach\bin\Debug\net5.0-windows\runtimes\win-x86\nativeassets\netcoreapp2.2\aspnetcorev2_inprocess.dll
+E:\1. Hoc CNTT VB2\12. TKPM\1988260-20880061\SourceCode\Quanly_NhaSach\Quanly_NhaSach\obj\Debug\net5.0-windows\Quanly_NhaSach.csproj.AssemblyReference.cache
+E:\1. Hoc CNTT VB2\12. TKPM\1988260-20880061\SourceCode\Quanly_NhaSach\Quanly_NhaSach\obj\Debug\net5.0-windows\Quanly_NhaSach.frmMain.resources
+E:\1. Hoc CNTT VB2\12. TKPM\1988260-20880061\SourceCode\Quanly_NhaSach\Quanly_NhaSach\obj\Debug\net5.0-windows\Quanly_NhaSach.UI.frmBaoCao_CongNo.resources
+E:\1. Hoc CNTT VB2\12. TKPM\1988260-20880061\SourceCode\Quanly_NhaSach\Quanly_NhaSach\obj\Debug\net5.0-windows\Quanly_NhaSach.UI.frmBaoCao_CongNoChiTiet.resources
+E:\1. Hoc CNTT VB2\12. TKPM\1988260-20880061\SourceCode\Quanly_NhaSach\Quanly_NhaSach\obj\Debug\net5.0-windows\Quanly_NhaSach.UI.frmBaocao_XuatNhap.resources
+E:\1. Hoc CNTT VB2\12. TKPM\1988260-20880061\SourceCode\Quanly_NhaSach\Quanly_NhaSach\obj\Debug\net5.0-windows\Quanly_NhaSach.UI.frmChitietNo.resources
+E:\1. Hoc CNTT VB2\12. TKPM\1988260-20880061\SourceCode\Quanly_NhaSach\Quanly_NhaSach\obj\Debug\net5.0-windows\Quanly_NhaSach.UI.frmDangNhap.resources
+E:\1. Hoc CNTT VB2\12. TKPM\1988260-20880061\SourceCode\Quanly_NhaSach\Quanly_NhaSach\obj\Debug\net5.0-windows\Quanly_NhaSach.UI.frmHoaDonBanHang.resources
+E:\1. Hoc CNTT VB2\12. TKPM\1988260-20880061\SourceCode\Quanly_NhaSach\Quanly_NhaSach\obj\Debug\net5.0-windows\Quanly_NhaSach.UI.frmHoaDonTimKiem.resources
+E:\1. Hoc CNTT VB2\12. TKPM\1988260-20880061\SourceCode\Quanly_NhaSach\Quanly_NhaSach\obj\Debug\net5.0-windows\Quanly_NhaSach.UI.frmKhachHang.resources
+E:\1. Hoc CNTT VB2\12. TKPM\1988260-20880061\SourceCode\Quanly_NhaSach\Quanly_NhaSach\obj\Debug\net5.0-windows\Quanly_NhaSach.UI.frmKhachHangTimKiem.resources
+E:\1. Hoc CNTT VB2\12. TKPM\1988260-20880061\SourceCode\Quanly_NhaSach\Quanly_NhaSach\obj\Debug\net5.0-windows\Quanly_NhaSach.UI.frmNguoiDung.resources
+E:\1. Hoc CNTT VB2\12. TKPM\1988260-20880061\SourceCode\Quanly_NhaSach\Quanly_NhaSach\obj\Debug\net5.0-windows\Quanly_NhaSach.UI.frmNguoidungTimkiem.resources
+E:\1. Hoc CNTT VB2\12. TKPM\1988260-20880061\SourceCode\Quanly_NhaSach\Quanly_NhaSach\obj\Debug\net5.0-windows\Quanly_NhaSach.UI.frmNhanVien.resources
+E:\1. Hoc CNTT VB2\12. TKPM\1988260-20880061\SourceCode\Quanly_NhaSach\Quanly_NhaSach\obj\Debug\net5.0-windows\Quanly_NhaSach.UI.frmNhanvienTimkiem.resources
+E:\1. Hoc CNTT VB2\12. TKPM\1988260-20880061\SourceCode\Quanly_NhaSach\Quanly_NhaSach\obj\Debug\net5.0-windows\Quanly_NhaSach.UI.frmPhieuNhapSach.resources
+E:\1. Hoc CNTT VB2\12. TKPM\1988260-20880061\SourceCode\Quanly_NhaSach\Quanly_NhaSach\obj\Debug\net5.0-windows\Quanly_NhaSach.UI.frmPhieuThuTien.resources
+E:\1. Hoc CNTT VB2\12. TKPM\1988260-20880061\SourceCode\Quanly_NhaSach\Quanly_NhaSach\obj\Debug\net5.0-windows\Quanly_NhaSach.UI.frmPhieuThuTien_TimKiem.resources
+E:\1. Hoc CNTT VB2\12. TKPM\1988260-20880061\SourceCode\Quanly_NhaSach\Quanly_NhaSach\obj\Debug\net5.0-windows\Quanly_NhaSach.UI.frmQuyDinh.resources
+E:\1. Hoc CNTT VB2\12. TKPM\1988260-20880061\SourceCode\Quanly_NhaSach\Quanly_NhaSach\obj\Debug\net5.0-windows\Quanly_NhaSach.UI.frmSach.resources
+E:\1. Hoc CNTT VB2\12. TKPM\1988260-20880061\SourceCode\Quanly_NhaSach\Quanly_NhaSach\obj\Debug\net5.0-windows\Quanly_NhaSach.UI.frmSachTimkiem.resources
+E:\1. Hoc CNTT VB2\12. TKPM\1988260-20880061\SourceCode\Quanly_NhaSach\Quanly_NhaSach\obj\Debug\net5.0-windows\Quanly_NhaSach.UI.frmTacGia.resources
+E:\1. Hoc CNTT VB2\12. TKPM\1988260-20880061\SourceCode\Quanly_NhaSach\Quanly_NhaSach\obj\Debug\net5.0-windows\Quanly_NhaSach.UI.frmTheLoai.resources
+E:\1. Hoc CNTT VB2\12. TKPM\1988260-20880061\SourceCode\Quanly_NhaSach\Quanly_NhaSach\obj\Debug\net5.0-windows\Quanly_NhaSach.UI.frmTracuuSach.resources
+E:\1. Hoc CNTT VB2\12. TKPM\1988260-20880061\SourceCode\Quanly_NhaSach\Quanly_NhaSach\obj\Debug\net5.0-windows\Quanly_NhaSach.csproj.GenerateResource.cache
+E:\1. Hoc CNTT VB2\12. TKPM\1988260-20880061\SourceCode\Quanly_NhaSach\Quanly_NhaSach\obj\Debug\net5.0-windows\Quanly_NhaSach.GeneratedMSBuildEditorConfig.editorconfig
+E:\1. Hoc CNTT VB2\12. TKPM\1988260-20880061\SourceCode\Quanly_NhaSach\Quanly_NhaSach\obj\Debug\net5.0-windows\Quanly_NhaSach.AssemblyInfoInputs.cache
+E:\1. Hoc CNTT VB2\12. TKPM\1988260-20880061\SourceCode\Quanly_NhaSach\Quanly_NhaSach\obj\Debug\net5.0-windows\Quanly_NhaSach.AssemblyInfo.cs
+E:\1. Hoc CNTT VB2\12. TKPM\1988260-20880061\SourceCode\Quanly_NhaSach\Quanly_NhaSach\obj\Debug\net5.0-windows\Quanly_NhaSach.csproj.CoreCompileInputs.cache
+E:\1. Hoc CNTT VB2\12. TKPM\1988260-20880061\SourceCode\Quanly_NhaSach\Quanly_NhaSach\obj\Debug\net5.0-windows\Quanly_NhaSach.csproj.Fody.CopyLocal.cache
+E:\1. Hoc CNTT VB2\12. TKPM\1988260-20880061\SourceCode\Quanly_NhaSach\Quanly_NhaSach\obj\Debug\net5.0-windows\Quanly_NhaSach.csproj.Fody.RuntimeCopyLocal.cache
+E:\1. Hoc CNTT VB2\12. TKPM\1988260-20880061\SourceCode\Quanly_NhaSach\Quanly_NhaSach\obj\Debug\net5.0-windows\Quanly_NhaSach.csproj.CopyComplete
+E:\1. Hoc CNTT VB2\12. TKPM\1988260-20880061\SourceCode\Quanly_NhaSach\Quanly_NhaSach\obj\Debug\net5.0-windows\Quanly_NhaSach.dll
+E:\1. Hoc CNTT VB2\12. TKPM\1988260-20880061\SourceCode\Quanly_NhaSach\Quanly_NhaSach\obj\Debug\net5.0-windows\ref\Quanly_NhaSach.dll
+E:\1. Hoc CNTT VB2\12. TKPM\1988260-20880061\SourceCode\Quanly_NhaSach\Quanly_NhaSach\obj\Debug\net5.0-windows\Quanly_NhaSach.pdb
+E:\1. Hoc CNTT VB2\12. TKPM\1988260-20880061\SourceCode\Quanly_NhaSach\Quanly_NhaSach\obj\Debug\net5.0-windows\Quanly_NhaSach.genruntimeconfig.cache
+E:\1. Hoc CNTT VB2\12. TKPM\21880018\SourceCode\Quanly_NhaSach\Quanly_NhaSach\bin\Debug\net5.0-windows\Quanly_NhaSach.exe
+E:\1. Hoc CNTT VB2\12. TKPM\21880018\SourceCode\Quanly_NhaSach\Quanly_NhaSach\bin\Debug\net5.0-windows\Quanly_NhaSach.deps.json
+E:\1. Hoc CNTT VB2\12. TKPM\21880018\SourceCode\Quanly_NhaSach\Quanly_NhaSach\bin\Debug\net5.0-windows\Quanly_NhaSach.runtimeconfig.json
+E:\1. Hoc CNTT VB2\12. TKPM\21880018\SourceCode\Quanly_NhaSach\Quanly_NhaSach\bin\Debug\net5.0-windows\Quanly_NhaSach.runtimeconfig.dev.json
+E:\1. Hoc CNTT VB2\12. TKPM\21880018\SourceCode\Quanly_NhaSach\Quanly_NhaSach\bin\Debug\net5.0-windows\Quanly_NhaSach.dll
+E:\1. Hoc CNTT VB2\12. TKPM\21880018\SourceCode\Quanly_NhaSach\Quanly_NhaSach\bin\Debug\net5.0-windows\ref\Quanly_NhaSach.dll
+E:\1. Hoc CNTT VB2\12. TKPM\21880018\SourceCode\Quanly_NhaSach\Quanly_NhaSach\bin\Debug\net5.0-windows\Quanly_NhaSach.pdb
+E:\1. Hoc CNTT VB2\12. TKPM\21880018\SourceCode\Quanly_NhaSach\Quanly_NhaSach\bin\Debug\net5.0-windows\AutoMapper.dll
+E:\1. Hoc CNTT VB2\12. TKPM\21880018\SourceCode\Quanly_NhaSach\Quanly_NhaSach\bin\Debug\net5.0-windows\Microsoft.AspNetCore.dll
+E:\1. Hoc CNTT VB2\12. TKPM\21880018\SourceCode\Quanly_NhaSach\Quanly_NhaSach\bin\Debug\net5.0-windows\Microsoft.AspNetCore.Authentication.Abstractions.dll
+E:\1. Hoc CNTT VB2\12. TKPM\21880018\SourceCode\Quanly_NhaSach\Quanly_NhaSach\bin\Debug\net5.0-windows\Microsoft.AspNetCore.Authentication.Core.dll
+E:\1. Hoc CNTT VB2\12. TKPM\21880018\SourceCode\Quanly_NhaSach\Quanly_NhaSach\bin\Debug\net5.0-windows\Microsoft.AspNetCore.Connections.Abstractions.dll
+E:\1. Hoc CNTT VB2\12. TKPM\21880018\SourceCode\Quanly_NhaSach\Quanly_NhaSach\bin\Debug\net5.0-windows\Microsoft.AspNetCore.Diagnostics.dll
+E:\1. Hoc CNTT VB2\12. TKPM\21880018\SourceCode\Quanly_NhaSach\Quanly_NhaSach\bin\Debug\net5.0-windows\Microsoft.AspNetCore.Diagnostics.Abstractions.dll
+E:\1. Hoc CNTT VB2\12. TKPM\21880018\SourceCode\Quanly_NhaSach\Quanly_NhaSach\bin\Debug\net5.0-windows\Microsoft.AspNetCore.HostFiltering.dll
+E:\1. Hoc CNTT VB2\12. TKPM\21880018\SourceCode\Quanly_NhaSach\Quanly_NhaSach\bin\Debug\net5.0-windows\Microsoft.AspNetCore.Hosting.dll
+E:\1. Hoc CNTT VB2\12. TKPM\21880018\SourceCode\Quanly_NhaSach\Quanly_NhaSach\bin\Debug\net5.0-windows\Microsoft.AspNetCore.Hosting.Abstractions.dll
+E:\1. Hoc CNTT VB2\12. TKPM\21880018\SourceCode\Quanly_NhaSach\Quanly_NhaSach\bin\Debug\net5.0-windows\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+E:\1. Hoc CNTT VB2\12. TKPM\21880018\SourceCode\Quanly_NhaSach\Quanly_NhaSach\bin\Debug\net5.0-windows\Microsoft.AspNetCore.Http.dll
+E:\1. Hoc CNTT VB2\12. TKPM\21880018\SourceCode\Quanly_NhaSach\Quanly_NhaSach\bin\Debug\net5.0-windows\Microsoft.AspNetCore.Http.Abstractions.dll
+E:\1. Hoc CNTT VB2\12. TKPM\21880018\SourceCode\Quanly_NhaSach\Quanly_NhaSach\bin\Debug\net5.0-windows\Microsoft.AspNetCore.Http.Extensions.dll
+E:\1. Hoc CNTT VB2\12. TKPM\21880018\SourceCode\Quanly_NhaSach\Quanly_NhaSach\bin\Debug\net5.0-windows\Microsoft.AspNetCore.Http.Features.dll
+E:\1. Hoc CNTT VB2\12. TKPM\21880018\SourceCode\Quanly_NhaSach\Quanly_NhaSach\bin\Debug\net5.0-windows\Microsoft.AspNetCore.HttpOverrides.dll
+E:\1. Hoc CNTT VB2\12. TKPM\21880018\SourceCode\Quanly_NhaSach\Quanly_NhaSach\bin\Debug\net5.0-windows\Microsoft.AspNetCore.Routing.dll
+E:\1. Hoc CNTT VB2\12. TKPM\21880018\SourceCode\Quanly_NhaSach\Quanly_NhaSach\bin\Debug\net5.0-windows\Microsoft.AspNetCore.Routing.Abstractions.dll
+E:\1. Hoc CNTT VB2\12. TKPM\21880018\SourceCode\Quanly_NhaSach\Quanly_NhaSach\bin\Debug\net5.0-windows\Microsoft.AspNetCore.Server.IIS.dll
+E:\1. Hoc CNTT VB2\12. TKPM\21880018\SourceCode\Quanly_NhaSach\Quanly_NhaSach\bin\Debug\net5.0-windows\Microsoft.AspNetCore.Server.IISIntegration.dll
+E:\1. Hoc CNTT VB2\12. TKPM\21880018\SourceCode\Quanly_NhaSach\Quanly_NhaSach\bin\Debug\net5.0-windows\Microsoft.AspNetCore.Server.Kestrel.dll
+E:\1. Hoc CNTT VB2\12. TKPM\21880018\SourceCode\Quanly_NhaSach\Quanly_NhaSach\bin\Debug\net5.0-windows\Microsoft.AspNetCore.Server.Kestrel.Core.dll
+E:\1. Hoc CNTT VB2\12. TKPM\21880018\SourceCode\Quanly_NhaSach\Quanly_NhaSach\bin\Debug\net5.0-windows\Microsoft.AspNetCore.Server.Kestrel.Https.dll
+E:\1. Hoc CNTT VB2\12. TKPM\21880018\SourceCode\Quanly_NhaSach\Quanly_NhaSach\bin\Debug\net5.0-windows\Microsoft.AspNetCore.Server.Kestrel.Transport.Abstractions.dll
+E:\1. Hoc CNTT VB2\12. TKPM\21880018\SourceCode\Quanly_NhaSach\Quanly_NhaSach\bin\Debug\net5.0-windows\Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.dll
+E:\1. Hoc CNTT VB2\12. TKPM\21880018\SourceCode\Quanly_NhaSach\Quanly_NhaSach\bin\Debug\net5.0-windows\Microsoft.AspNetCore.WebUtilities.dll
+E:\1. Hoc CNTT VB2\12. TKPM\21880018\SourceCode\Quanly_NhaSach\Quanly_NhaSach\bin\Debug\net5.0-windows\Microsoft.Extensions.Configuration.dll
+E:\1. Hoc CNTT VB2\12. TKPM\21880018\SourceCode\Quanly_NhaSach\Quanly_NhaSach\bin\Debug\net5.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\1. Hoc CNTT VB2\12. TKPM\21880018\SourceCode\Quanly_NhaSach\Quanly_NhaSach\bin\Debug\net5.0-windows\Microsoft.Extensions.Configuration.Binder.dll
+E:\1. Hoc CNTT VB2\12. TKPM\21880018\SourceCode\Quanly_NhaSach\Quanly_NhaSach\bin\Debug\net5.0-windows\Microsoft.Extensions.Configuration.CommandLine.dll
+E:\1. Hoc CNTT VB2\12. TKPM\21880018\SourceCode\Quanly_NhaSach\Quanly_NhaSach\bin\Debug\net5.0-windows\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+E:\1. Hoc CNTT VB2\12. TKPM\21880018\SourceCode\Quanly_NhaSach\Quanly_NhaSach\bin\Debug\net5.0-windows\Microsoft.Extensions.Configuration.FileExtensions.dll
+E:\1. Hoc CNTT VB2\12. TKPM\21880018\SourceCode\Quanly_NhaSach\Quanly_NhaSach\bin\Debug\net5.0-windows\Microsoft.Extensions.Configuration.Json.dll
+E:\1. Hoc CNTT VB2\12. TKPM\21880018\SourceCode\Quanly_NhaSach\Quanly_NhaSach\bin\Debug\net5.0-windows\Microsoft.Extensions.Configuration.UserSecrets.dll
+E:\1. Hoc CNTT VB2\12. TKPM\21880018\SourceCode\Quanly_NhaSach\Quanly_NhaSach\bin\Debug\net5.0-windows\Microsoft.Extensions.DependencyInjection.dll
+E:\1. Hoc CNTT VB2\12. TKPM\21880018\SourceCode\Quanly_NhaSach\Quanly_NhaSach\bin\Debug\net5.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\1. Hoc CNTT VB2\12. TKPM\21880018\SourceCode\Quanly_NhaSach\Quanly_NhaSach\bin\Debug\net5.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+E:\1. Hoc CNTT VB2\12. TKPM\21880018\SourceCode\Quanly_NhaSach\Quanly_NhaSach\bin\Debug\net5.0-windows\Microsoft.Extensions.FileProviders.Physical.dll
+E:\1. Hoc CNTT VB2\12. TKPM\21880018\SourceCode\Quanly_NhaSach\Quanly_NhaSach\bin\Debug\net5.0-windows\Microsoft.Extensions.FileSystemGlobbing.dll
+E:\1. Hoc CNTT VB2\12. TKPM\21880018\SourceCode\Quanly_NhaSach\Quanly_NhaSach\bin\Debug\net5.0-windows\Microsoft.Extensions.Hosting.Abstractions.dll
+E:\1. Hoc CNTT VB2\12. TKPM\21880018\SourceCode\Quanly_NhaSach\Quanly_NhaSach\bin\Debug\net5.0-windows\Microsoft.Extensions.Logging.dll
+E:\1. Hoc CNTT VB2\12. TKPM\21880018\SourceCode\Quanly_NhaSach\Quanly_NhaSach\bin\Debug\net5.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+E:\1. Hoc CNTT VB2\12. TKPM\21880018\SourceCode\Quanly_NhaSach\Quanly_NhaSach\bin\Debug\net5.0-windows\Microsoft.Extensions.Logging.Configuration.dll
+E:\1. Hoc CNTT VB2\12. TKPM\21880018\SourceCode\Quanly_NhaSach\Quanly_NhaSach\bin\Debug\net5.0-windows\Microsoft.Extensions.Logging.Console.dll
+E:\1. Hoc CNTT VB2\12. TKPM\21880018\SourceCode\Quanly_NhaSach\Quanly_NhaSach\bin\Debug\net5.0-windows\Microsoft.Extensions.Logging.Debug.dll
+E:\1. Hoc CNTT VB2\12. TKPM\21880018\SourceCode\Quanly_NhaSach\Quanly_NhaSach\bin\Debug\net5.0-windows\Microsoft.Extensions.Logging.EventSource.dll
+E:\1. Hoc CNTT VB2\12. TKPM\21880018\SourceCode\Quanly_NhaSach\Quanly_NhaSach\bin\Debug\net5.0-windows\Microsoft.Extensions.ObjectPool.dll
+E:\1. Hoc CNTT VB2\12. TKPM\21880018\SourceCode\Quanly_NhaSach\Quanly_NhaSach\bin\Debug\net5.0-windows\Microsoft.Extensions.Options.dll
+E:\1. Hoc CNTT VB2\12. TKPM\21880018\SourceCode\Quanly_NhaSach\Quanly_NhaSach\bin\Debug\net5.0-windows\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+E:\1. Hoc CNTT VB2\12. TKPM\21880018\SourceCode\Quanly_NhaSach\Quanly_NhaSach\bin\Debug\net5.0-windows\Microsoft.Extensions.Primitives.dll
+E:\1. Hoc CNTT VB2\12. TKPM\21880018\SourceCode\Quanly_NhaSach\Quanly_NhaSach\bin\Debug\net5.0-windows\Microsoft.Net.Http.Headers.dll
+E:\1. Hoc CNTT VB2\12. TKPM\21880018\SourceCode\Quanly_NhaSach\Quanly_NhaSach\bin\Debug\net5.0-windows\Newtonsoft.Json.dll
+E:\1. Hoc CNTT VB2\12. TKPM\21880018\SourceCode\Quanly_NhaSach\Quanly_NhaSach\bin\Debug\net5.0-windows\System.IO.Pipelines.dll
+E:\1. Hoc CNTT VB2\12. TKPM\21880018\SourceCode\Quanly_NhaSach\Quanly_NhaSach\bin\Debug\net5.0-windows\runtimes\win-x64\nativeassets\netcoreapp2.2\aspnetcorev2_inprocess.dll
+E:\1. Hoc CNTT VB2\12. TKPM\21880018\SourceCode\Quanly_NhaSach\Quanly_NhaSach\bin\Debug\net5.0-windows\runtimes\win-x86\nativeassets\netcoreapp2.2\aspnetcorev2_inprocess.dll
+E:\1. Hoc CNTT VB2\12. TKPM\21880018\SourceCode\Quanly_NhaSach\Quanly_NhaSach\obj\Debug\net5.0-windows\Quanly_NhaSach.csproj.AssemblyReference.cache
+E:\1. Hoc CNTT VB2\12. TKPM\21880018\SourceCode\Quanly_NhaSach\Quanly_NhaSach\obj\Debug\net5.0-windows\Quanly_NhaSach.frmMain.resources
+E:\1. Hoc CNTT VB2\12. TKPM\21880018\SourceCode\Quanly_NhaSach\Quanly_NhaSach\obj\Debug\net5.0-windows\Quanly_NhaSach.UI.frmBaoCao_CongNo.resources
+E:\1. Hoc CNTT VB2\12. TKPM\21880018\SourceCode\Quanly_NhaSach\Quanly_NhaSach\obj\Debug\net5.0-windows\Quanly_NhaSach.UI.frmBaoCao_CongNoChiTiet.resources
+E:\1. Hoc CNTT VB2\12. TKPM\21880018\SourceCode\Quanly_NhaSach\Quanly_NhaSach\obj\Debug\net5.0-windows\Quanly_NhaSach.UI.frmBaocao_XuatNhap.resources
+E:\1. Hoc CNTT VB2\12. TKPM\21880018\SourceCode\Quanly_NhaSach\Quanly_NhaSach\obj\Debug\net5.0-windows\Quanly_NhaSach.UI.frmDangNhap.resources
+E:\1. Hoc CNTT VB2\12. TKPM\21880018\SourceCode\Quanly_NhaSach\Quanly_NhaSach\obj\Debug\net5.0-windows\Quanly_NhaSach.UI.frmHoaDonBanHang.resources
+E:\1. Hoc CNTT VB2\12. TKPM\21880018\SourceCode\Quanly_NhaSach\Quanly_NhaSach\obj\Debug\net5.0-windows\Quanly_NhaSach.UI.frmHoaDonTimKiem.resources
+E:\1. Hoc CNTT VB2\12. TKPM\21880018\SourceCode\Quanly_NhaSach\Quanly_NhaSach\obj\Debug\net5.0-windows\Quanly_NhaSach.UI.frmKhachHang.resources
+E:\1. Hoc CNTT VB2\12. TKPM\21880018\SourceCode\Quanly_NhaSach\Quanly_NhaSach\obj\Debug\net5.0-windows\Quanly_NhaSach.UI.frmKhachHangTimKiem.resources
+E:\1. Hoc CNTT VB2\12. TKPM\21880018\SourceCode\Quanly_NhaSach\Quanly_NhaSach\obj\Debug\net5.0-windows\Quanly_NhaSach.UI.frmNguoiDung.resources
+E:\1. Hoc CNTT VB2\12. TKPM\21880018\SourceCode\Quanly_NhaSach\Quanly_NhaSach\obj\Debug\net5.0-windows\Quanly_NhaSach.UI.frmNguoidungTimkiem.resources
+E:\1. Hoc CNTT VB2\12. TKPM\21880018\SourceCode\Quanly_NhaSach\Quanly_NhaSach\obj\Debug\net5.0-windows\Quanly_NhaSach.UI.frmNhanVien.resources
+E:\1. Hoc CNTT VB2\12. TKPM\21880018\SourceCode\Quanly_NhaSach\Quanly_NhaSach\obj\Debug\net5.0-windows\Quanly_NhaSach.UI.frmNhanvienTimkiem.resources
+E:\1. Hoc CNTT VB2\12. TKPM\21880018\SourceCode\Quanly_NhaSach\Quanly_NhaSach\obj\Debug\net5.0-windows\Quanly_NhaSach.UI.frmPhieuNhapSach.resources
+E:\1. Hoc CNTT VB2\12. TKPM\21880018\SourceCode\Quanly_NhaSach\Quanly_NhaSach\obj\Debug\net5.0-windows\Quanly_NhaSach.UI.frmPhieuThuTien.resources
+E:\1. Hoc CNTT VB2\12. TKPM\21880018\SourceCode\Quanly_NhaSach\Quanly_NhaSach\obj\Debug\net5.0-windows\Quanly_NhaSach.UI.frmPhieuThuTien_TimKiem.resources
+E:\1. Hoc CNTT VB2\12. TKPM\21880018\SourceCode\Quanly_NhaSach\Quanly_NhaSach\obj\Debug\net5.0-windows\Quanly_NhaSach.UI.frmQuyDinh.resources
+E:\1. Hoc CNTT VB2\12. TKPM\21880018\SourceCode\Quanly_NhaSach\Quanly_NhaSach\obj\Debug\net5.0-windows\Quanly_NhaSach.UI.frmSach.resources
+E:\1. Hoc CNTT VB2\12. TKPM\21880018\SourceCode\Quanly_NhaSach\Quanly_NhaSach\obj\Debug\net5.0-windows\Quanly_NhaSach.UI.frmSachTimkiem.resources
+E:\1. Hoc CNTT VB2\12. TKPM\21880018\SourceCode\Quanly_NhaSach\Quanly_NhaSach\obj\Debug\net5.0-windows\Quanly_NhaSach.UI.frmTacGia.resources
+E:\1. Hoc CNTT VB2\12. TKPM\21880018\SourceCode\Quanly_NhaSach\Quanly_NhaSach\obj\Debug\net5.0-windows\Quanly_NhaSach.UI.frmTheLoai.resources
+E:\1. Hoc CNTT VB2\12. TKPM\21880018\SourceCode\Quanly_NhaSach\Quanly_NhaSach\obj\Debug\net5.0-windows\Quanly_NhaSach.UI.frmTracuuSach.resources
+E:\1. Hoc CNTT VB2\12. TKPM\21880018\SourceCode\Quanly_NhaSach\Quanly_NhaSach\obj\Debug\net5.0-windows\Quanly_NhaSach.csproj.GenerateResource.cache
+E:\1. Hoc CNTT VB2\12. TKPM\21880018\SourceCode\Quanly_NhaSach\Quanly_NhaSach\obj\Debug\net5.0-windows\Quanly_NhaSach.GeneratedMSBuildEditorConfig.editorconfig
+E:\1. Hoc CNTT VB2\12. TKPM\21880018\SourceCode\Quanly_NhaSach\Quanly_NhaSach\obj\Debug\net5.0-windows\Quanly_NhaSach.AssemblyInfoInputs.cache
+E:\1. Hoc CNTT VB2\12. TKPM\21880018\SourceCode\Quanly_NhaSach\Quanly_NhaSach\obj\Debug\net5.0-windows\Quanly_NhaSach.AssemblyInfo.cs
+E:\1. Hoc CNTT VB2\12. TKPM\21880018\SourceCode\Quanly_NhaSach\Quanly_NhaSach\obj\Debug\net5.0-windows\Quanly_NhaSach.csproj.CoreCompileInputs.cache
+E:\1. Hoc CNTT VB2\12. TKPM\21880018\SourceCode\Quanly_NhaSach\Quanly_NhaSach\obj\Debug\net5.0-windows\Quanly_NhaSach.csproj.Fody.CopyLocal.cache
+E:\1. Hoc CNTT VB2\12. TKPM\21880018\SourceCode\Quanly_NhaSach\Quanly_NhaSach\obj\Debug\net5.0-windows\Quanly_NhaSach.csproj.Fody.RuntimeCopyLocal.cache
+E:\1. Hoc CNTT VB2\12. TKPM\21880018\SourceCode\Quanly_NhaSach\Quanly_NhaSach\obj\Debug\net5.0-windows\Quanly_NhaSach.csproj.CopyComplete
+E:\1. Hoc CNTT VB2\12. TKPM\21880018\SourceCode\Quanly_NhaSach\Quanly_NhaSach\obj\Debug\net5.0-windows\Quanly_NhaSach.dll
+E:\1. Hoc CNTT VB2\12. TKPM\21880018\SourceCode\Quanly_NhaSach\Quanly_NhaSach\obj\Debug\net5.0-windows\ref\Quanly_NhaSach.dll
+E:\1. Hoc CNTT VB2\12. TKPM\21880018\SourceCode\Quanly_NhaSach\Quanly_NhaSach\obj\Debug\net5.0-windows\Quanly_NhaSach.pdb
+E:\1. Hoc CNTT VB2\12. TKPM\21880018\SourceCode\Quanly_NhaSach\Quanly_NhaSach\obj\Debug\net5.0-windows\Quanly_NhaSach.genruntimeconfig.cache
+E:\1. Hoc CNTT VB2\12. TKPM\21880018\SourceCode\Quanly_NhaSach\Quanly_NhaSach\obj\Debug\net5.0-windows\Quanly_NhaSach.Properties.Resources.resources
+C:\Users\NGHI DANG\Dropbox\My PC (LAPTOP-9NVMENQT)\Documents\VAN BANG 2_CNTT\Project\Quanly_NhaSach\Quanly_NhaSach\bin\Debug\net5.0-windows\Quanly_NhaSach.exe
+C:\Users\NGHI DANG\Dropbox\My PC (LAPTOP-9NVMENQT)\Documents\VAN BANG 2_CNTT\Project\Quanly_NhaSach\Quanly_NhaSach\bin\Debug\net5.0-windows\Quanly_NhaSach.deps.json
+C:\Users\NGHI DANG\Dropbox\My PC (LAPTOP-9NVMENQT)\Documents\VAN BANG 2_CNTT\Project\Quanly_NhaSach\Quanly_NhaSach\bin\Debug\net5.0-windows\Quanly_NhaSach.runtimeconfig.json
+C:\Users\NGHI DANG\Dropbox\My PC (LAPTOP-9NVMENQT)\Documents\VAN BANG 2_CNTT\Project\Quanly_NhaSach\Quanly_NhaSach\bin\Debug\net5.0-windows\Quanly_NhaSach.runtimeconfig.dev.json
+C:\Users\NGHI DANG\Dropbox\My PC (LAPTOP-9NVMENQT)\Documents\VAN BANG 2_CNTT\Project\Quanly_NhaSach\Quanly_NhaSach\bin\Debug\net5.0-windows\Quanly_NhaSach.dll
+C:\Users\NGHI DANG\Dropbox\My PC (LAPTOP-9NVMENQT)\Documents\VAN BANG 2_CNTT\Project\Quanly_NhaSach\Quanly_NhaSach\bin\Debug\net5.0-windows\Quanly_NhaSach.pdb
+C:\Users\NGHI DANG\Dropbox\My PC (LAPTOP-9NVMENQT)\Documents\VAN BANG 2_CNTT\Project\Quanly_NhaSach\Quanly_NhaSach\bin\Debug\net5.0-windows\AutoMapper.dll
+C:\Users\NGHI DANG\Dropbox\My PC (LAPTOP-9NVMENQT)\Documents\VAN BANG 2_CNTT\Project\Quanly_NhaSach\Quanly_NhaSach\bin\Debug\net5.0-windows\Microsoft.AspNetCore.dll
+C:\Users\NGHI DANG\Dropbox\My PC (LAPTOP-9NVMENQT)\Documents\VAN BANG 2_CNTT\Project\Quanly_NhaSach\Quanly_NhaSach\bin\Debug\net5.0-windows\Microsoft.AspNetCore.Authentication.Abstractions.dll
+C:\Users\NGHI DANG\Dropbox\My PC (LAPTOP-9NVMENQT)\Documents\VAN BANG 2_CNTT\Project\Quanly_NhaSach\Quanly_NhaSach\bin\Debug\net5.0-windows\Microsoft.AspNetCore.Authentication.Core.dll
+C:\Users\NGHI DANG\Dropbox\My PC (LAPTOP-9NVMENQT)\Documents\VAN BANG 2_CNTT\Project\Quanly_NhaSach\Quanly_NhaSach\bin\Debug\net5.0-windows\Microsoft.AspNetCore.Connections.Abstractions.dll
+C:\Users\NGHI DANG\Dropbox\My PC (LAPTOP-9NVMENQT)\Documents\VAN BANG 2_CNTT\Project\Quanly_NhaSach\Quanly_NhaSach\bin\Debug\net5.0-windows\Microsoft.AspNetCore.Diagnostics.dll
+C:\Users\NGHI DANG\Dropbox\My PC (LAPTOP-9NVMENQT)\Documents\VAN BANG 2_CNTT\Project\Quanly_NhaSach\Quanly_NhaSach\bin\Debug\net5.0-windows\Microsoft.AspNetCore.Diagnostics.Abstractions.dll
+C:\Users\NGHI DANG\Dropbox\My PC (LAPTOP-9NVMENQT)\Documents\VAN BANG 2_CNTT\Project\Quanly_NhaSach\Quanly_NhaSach\bin\Debug\net5.0-windows\Microsoft.AspNetCore.HostFiltering.dll
+C:\Users\NGHI DANG\Dropbox\My PC (LAPTOP-9NVMENQT)\Documents\VAN BANG 2_CNTT\Project\Quanly_NhaSach\Quanly_NhaSach\bin\Debug\net5.0-windows\Microsoft.AspNetCore.Hosting.dll
+C:\Users\NGHI DANG\Dropbox\My PC (LAPTOP-9NVMENQT)\Documents\VAN BANG 2_CNTT\Project\Quanly_NhaSach\Quanly_NhaSach\bin\Debug\net5.0-windows\Microsoft.AspNetCore.Hosting.Abstractions.dll
+C:\Users\NGHI DANG\Dropbox\My PC (LAPTOP-9NVMENQT)\Documents\VAN BANG 2_CNTT\Project\Quanly_NhaSach\Quanly_NhaSach\bin\Debug\net5.0-windows\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+C:\Users\NGHI DANG\Dropbox\My PC (LAPTOP-9NVMENQT)\Documents\VAN BANG 2_CNTT\Project\Quanly_NhaSach\Quanly_NhaSach\bin\Debug\net5.0-windows\Microsoft.AspNetCore.Http.dll
+C:\Users\NGHI DANG\Dropbox\My PC (LAPTOP-9NVMENQT)\Documents\VAN BANG 2_CNTT\Project\Quanly_NhaSach\Quanly_NhaSach\bin\Debug\net5.0-windows\Microsoft.AspNetCore.Http.Abstractions.dll
+C:\Users\NGHI DANG\Dropbox\My PC (LAPTOP-9NVMENQT)\Documents\VAN BANG 2_CNTT\Project\Quanly_NhaSach\Quanly_NhaSach\bin\Debug\net5.0-windows\Microsoft.AspNetCore.Http.Extensions.dll
+C:\Users\NGHI DANG\Dropbox\My PC (LAPTOP-9NVMENQT)\Documents\VAN BANG 2_CNTT\Project\Quanly_NhaSach\Quanly_NhaSach\bin\Debug\net5.0-windows\Microsoft.AspNetCore.Http.Features.dll
+C:\Users\NGHI DANG\Dropbox\My PC (LAPTOP-9NVMENQT)\Documents\VAN BANG 2_CNTT\Project\Quanly_NhaSach\Quanly_NhaSach\bin\Debug\net5.0-windows\Microsoft.AspNetCore.HttpOverrides.dll
+C:\Users\NGHI DANG\Dropbox\My PC (LAPTOP-9NVMENQT)\Documents\VAN BANG 2_CNTT\Project\Quanly_NhaSach\Quanly_NhaSach\bin\Debug\net5.0-windows\Microsoft.AspNetCore.Routing.dll
+C:\Users\NGHI DANG\Dropbox\My PC (LAPTOP-9NVMENQT)\Documents\VAN BANG 2_CNTT\Project\Quanly_NhaSach\Quanly_NhaSach\bin\Debug\net5.0-windows\Microsoft.AspNetCore.Routing.Abstractions.dll
+C:\Users\NGHI DANG\Dropbox\My PC (LAPTOP-9NVMENQT)\Documents\VAN BANG 2_CNTT\Project\Quanly_NhaSach\Quanly_NhaSach\bin\Debug\net5.0-windows\Microsoft.AspNetCore.Server.IIS.dll
+C:\Users\NGHI DANG\Dropbox\My PC (LAPTOP-9NVMENQT)\Documents\VAN BANG 2_CNTT\Project\Quanly_NhaSach\Quanly_NhaSach\bin\Debug\net5.0-windows\Microsoft.AspNetCore.Server.IISIntegration.dll
+C:\Users\NGHI DANG\Dropbox\My PC (LAPTOP-9NVMENQT)\Documents\VAN BANG 2_CNTT\Project\Quanly_NhaSach\Quanly_NhaSach\bin\Debug\net5.0-windows\Microsoft.AspNetCore.Server.Kestrel.dll
+C:\Users\NGHI DANG\Dropbox\My PC (LAPTOP-9NVMENQT)\Documents\VAN BANG 2_CNTT\Project\Quanly_NhaSach\Quanly_NhaSach\bin\Debug\net5.0-windows\Microsoft.AspNetCore.Server.Kestrel.Core.dll
+C:\Users\NGHI DANG\Dropbox\My PC (LAPTOP-9NVMENQT)\Documents\VAN BANG 2_CNTT\Project\Quanly_NhaSach\Quanly_NhaSach\bin\Debug\net5.0-windows\Microsoft.AspNetCore.Server.Kestrel.Https.dll
+C:\Users\NGHI DANG\Dropbox\My PC (LAPTOP-9NVMENQT)\Documents\VAN BANG 2_CNTT\Project\Quanly_NhaSach\Quanly_NhaSach\bin\Debug\net5.0-windows\Microsoft.AspNetCore.Server.Kestrel.Transport.Abstractions.dll
+C:\Users\NGHI DANG\Dropbox\My PC (LAPTOP-9NVMENQT)\Documents\VAN BANG 2_CNTT\Project\Quanly_NhaSach\Quanly_NhaSach\bin\Debug\net5.0-windows\Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.dll
+C:\Users\NGHI DANG\Dropbox\My PC (LAPTOP-9NVMENQT)\Documents\VAN BANG 2_CNTT\Project\Quanly_NhaSach\Quanly_NhaSach\bin\Debug\net5.0-windows\Microsoft.AspNetCore.WebUtilities.dll
+C:\Users\NGHI DANG\Dropbox\My PC (LAPTOP-9NVMENQT)\Documents\VAN BANG 2_CNTT\Project\Quanly_NhaSach\Quanly_NhaSach\bin\Debug\net5.0-windows\Microsoft.Extensions.Configuration.dll
+C:\Users\NGHI DANG\Dropbox\My PC (LAPTOP-9NVMENQT)\Documents\VAN BANG 2_CNTT\Project\Quanly_NhaSach\Quanly_NhaSach\bin\Debug\net5.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\NGHI DANG\Dropbox\My PC (LAPTOP-9NVMENQT)\Documents\VAN BANG 2_CNTT\Project\Quanly_NhaSach\Quanly_NhaSach\bin\Debug\net5.0-windows\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\NGHI DANG\Dropbox\My PC (LAPTOP-9NVMENQT)\Documents\VAN BANG 2_CNTT\Project\Quanly_NhaSach\Quanly_NhaSach\bin\Debug\net5.0-windows\Microsoft.Extensions.Configuration.CommandLine.dll
+C:\Users\NGHI DANG\Dropbox\My PC (LAPTOP-9NVMENQT)\Documents\VAN BANG 2_CNTT\Project\Quanly_NhaSach\Quanly_NhaSach\bin\Debug\net5.0-windows\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+C:\Users\NGHI DANG\Dropbox\My PC (LAPTOP-9NVMENQT)\Documents\VAN BANG 2_CNTT\Project\Quanly_NhaSach\Quanly_NhaSach\bin\Debug\net5.0-windows\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\NGHI DANG\Dropbox\My PC (LAPTOP-9NVMENQT)\Documents\VAN BANG 2_CNTT\Project\Quanly_NhaSach\Quanly_NhaSach\bin\Debug\net5.0-windows\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\NGHI DANG\Dropbox\My PC (LAPTOP-9NVMENQT)\Documents\VAN BANG 2_CNTT\Project\Quanly_NhaSach\Quanly_NhaSach\bin\Debug\net5.0-windows\Microsoft.Extensions.Configuration.UserSecrets.dll
+C:\Users\NGHI DANG\Dropbox\My PC (LAPTOP-9NVMENQT)\Documents\VAN BANG 2_CNTT\Project\Quanly_NhaSach\Quanly_NhaSach\bin\Debug\net5.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\NGHI DANG\Dropbox\My PC (LAPTOP-9NVMENQT)\Documents\VAN BANG 2_CNTT\Project\Quanly_NhaSach\Quanly_NhaSach\bin\Debug\net5.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\NGHI DANG\Dropbox\My PC (LAPTOP-9NVMENQT)\Documents\VAN BANG 2_CNTT\Project\Quanly_NhaSach\Quanly_NhaSach\bin\Debug\net5.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\NGHI DANG\Dropbox\My PC (LAPTOP-9NVMENQT)\Documents\VAN BANG 2_CNTT\Project\Quanly_NhaSach\Quanly_NhaSach\bin\Debug\net5.0-windows\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\NGHI DANG\Dropbox\My PC (LAPTOP-9NVMENQT)\Documents\VAN BANG 2_CNTT\Project\Quanly_NhaSach\Quanly_NhaSach\bin\Debug\net5.0-windows\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\NGHI DANG\Dropbox\My PC (LAPTOP-9NVMENQT)\Documents\VAN BANG 2_CNTT\Project\Quanly_NhaSach\Quanly_NhaSach\bin\Debug\net5.0-windows\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Users\NGHI DANG\Dropbox\My PC (LAPTOP-9NVMENQT)\Documents\VAN BANG 2_CNTT\Project\Quanly_NhaSach\Quanly_NhaSach\bin\Debug\net5.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\NGHI DANG\Dropbox\My PC (LAPTOP-9NVMENQT)\Documents\VAN BANG 2_CNTT\Project\Quanly_NhaSach\Quanly_NhaSach\bin\Debug\net5.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\NGHI DANG\Dropbox\My PC (LAPTOP-9NVMENQT)\Documents\VAN BANG 2_CNTT\Project\Quanly_NhaSach\Quanly_NhaSach\bin\Debug\net5.0-windows\Microsoft.Extensions.Logging.Configuration.dll
+C:\Users\NGHI DANG\Dropbox\My PC (LAPTOP-9NVMENQT)\Documents\VAN BANG 2_CNTT\Project\Quanly_NhaSach\Quanly_NhaSach\bin\Debug\net5.0-windows\Microsoft.Extensions.Logging.Console.dll
+C:\Users\NGHI DANG\Dropbox\My PC (LAPTOP-9NVMENQT)\Documents\VAN BANG 2_CNTT\Project\Quanly_NhaSach\Quanly_NhaSach\bin\Debug\net5.0-windows\Microsoft.Extensions.Logging.Debug.dll
+C:\Users\NGHI DANG\Dropbox\My PC (LAPTOP-9NVMENQT)\Documents\VAN BANG 2_CNTT\Project\Quanly_NhaSach\Quanly_NhaSach\bin\Debug\net5.0-windows\Microsoft.Extensions.Logging.EventSource.dll
+C:\Users\NGHI DANG\Dropbox\My PC (LAPTOP-9NVMENQT)\Documents\VAN BANG 2_CNTT\Project\Quanly_NhaSach\Quanly_NhaSach\bin\Debug\net5.0-windows\Microsoft.Extensions.ObjectPool.dll
+C:\Users\NGHI DANG\Dropbox\My PC (LAPTOP-9NVMENQT)\Documents\VAN BANG 2_CNTT\Project\Quanly_NhaSach\Quanly_NhaSach\bin\Debug\net5.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\NGHI DANG\Dropbox\My PC (LAPTOP-9NVMENQT)\Documents\VAN BANG 2_CNTT\Project\Quanly_NhaSach\Quanly_NhaSach\bin\Debug\net5.0-windows\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+C:\Users\NGHI DANG\Dropbox\My PC (LAPTOP-9NVMENQT)\Documents\VAN BANG 2_CNTT\Project\Quanly_NhaSach\Quanly_NhaSach\bin\Debug\net5.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\NGHI DANG\Dropbox\My PC (LAPTOP-9NVMENQT)\Documents\VAN BANG 2_CNTT\Project\Quanly_NhaSach\Quanly_NhaSach\bin\Debug\net5.0-windows\Microsoft.Net.Http.Headers.dll
+C:\Users\NGHI DANG\Dropbox\My PC (LAPTOP-9NVMENQT)\Documents\VAN BANG 2_CNTT\Project\Quanly_NhaSach\Quanly_NhaSach\bin\Debug\net5.0-windows\Newtonsoft.Json.dll
+C:\Users\NGHI DANG\Dropbox\My PC (LAPTOP-9NVMENQT)\Documents\VAN BANG 2_CNTT\Project\Quanly_NhaSach\Quanly_NhaSach\bin\Debug\net5.0-windows\System.IO.Pipelines.dll
+C:\Users\NGHI DANG\Dropbox\My PC (LAPTOP-9NVMENQT)\Documents\VAN BANG 2_CNTT\Project\Quanly_NhaSach\Quanly_NhaSach\bin\Debug\net5.0-windows\runtimes\win-x64\nativeassets\netcoreapp2.2\aspnetcorev2_inprocess.dll
+C:\Users\NGHI DANG\Dropbox\My PC (LAPTOP-9NVMENQT)\Documents\VAN BANG 2_CNTT\Project\Quanly_NhaSach\Quanly_NhaSach\bin\Debug\net5.0-windows\runtimes\win-x86\nativeassets\netcoreapp2.2\aspnetcorev2_inprocess.dll
+C:\Users\NGHI DANG\Dropbox\My PC (LAPTOP-9NVMENQT)\Documents\VAN BANG 2_CNTT\Project\Quanly_NhaSach\Quanly_NhaSach\obj\Debug\net5.0-windows\Quanly_NhaSach.csproj.AssemblyReference.cache
+C:\Users\NGHI DANG\Dropbox\My PC (LAPTOP-9NVMENQT)\Documents\VAN BANG 2_CNTT\Project\Quanly_NhaSach\Quanly_NhaSach\obj\Debug\net5.0-windows\Quanly_NhaSach.frmMain.resources
+C:\Users\NGHI DANG\Dropbox\My PC (LAPTOP-9NVMENQT)\Documents\VAN BANG 2_CNTT\Project\Quanly_NhaSach\Quanly_NhaSach\obj\Debug\net5.0-windows\Quanly_NhaSach.Properties.Resources.resources
+C:\Users\NGHI DANG\Dropbox\My PC (LAPTOP-9NVMENQT)\Documents\VAN BANG 2_CNTT\Project\Quanly_NhaSach\Quanly_NhaSach\obj\Debug\net5.0-windows\Quanly_NhaSach.UI.frmBaoCao_CongNo.resources
+C:\Users\NGHI DANG\Dropbox\My PC (LAPTOP-9NVMENQT)\Documents\VAN BANG 2_CNTT\Project\Quanly_NhaSach\Quanly_NhaSach\obj\Debug\net5.0-windows\Quanly_NhaSach.UI.frmBaoCao_CongNoChiTiet.resources
+C:\Users\NGHI DANG\Dropbox\My PC (LAPTOP-9NVMENQT)\Documents\VAN BANG 2_CNTT\Project\Quanly_NhaSach\Quanly_NhaSach\obj\Debug\net5.0-windows\Quanly_NhaSach.UI.frmBaocao_XuatNhap.resources
+C:\Users\NGHI DANG\Dropbox\My PC (LAPTOP-9NVMENQT)\Documents\VAN BANG 2_CNTT\Project\Quanly_NhaSach\Quanly_NhaSach\obj\Debug\net5.0-windows\Quanly_NhaSach.UI.frmDangNhap.resources
+C:\Users\NGHI DANG\Dropbox\My PC (LAPTOP-9NVMENQT)\Documents\VAN BANG 2_CNTT\Project\Quanly_NhaSach\Quanly_NhaSach\obj\Debug\net5.0-windows\Quanly_NhaSach.UI.frmHoaDonBanHang.resources
+C:\Users\NGHI DANG\Dropbox\My PC (LAPTOP-9NVMENQT)\Documents\VAN BANG 2_CNTT\Project\Quanly_NhaSach\Quanly_NhaSach\obj\Debug\net5.0-windows\Quanly_NhaSach.UI.frmHoaDonTimKiem.resources
+C:\Users\NGHI DANG\Dropbox\My PC (LAPTOP-9NVMENQT)\Documents\VAN BANG 2_CNTT\Project\Quanly_NhaSach\Quanly_NhaSach\obj\Debug\net5.0-windows\Quanly_NhaSach.UI.frmKhachHang.resources
+C:\Users\NGHI DANG\Dropbox\My PC (LAPTOP-9NVMENQT)\Documents\VAN BANG 2_CNTT\Project\Quanly_NhaSach\Quanly_NhaSach\obj\Debug\net5.0-windows\Quanly_NhaSach.UI.frmKhachHangTimKiem.resources
+C:\Users\NGHI DANG\Dropbox\My PC (LAPTOP-9NVMENQT)\Documents\VAN BANG 2_CNTT\Project\Quanly_NhaSach\Quanly_NhaSach\obj\Debug\net5.0-windows\Quanly_NhaSach.UI.frmNguoiDung.resources
+C:\Users\NGHI DANG\Dropbox\My PC (LAPTOP-9NVMENQT)\Documents\VAN BANG 2_CNTT\Project\Quanly_NhaSach\Quanly_NhaSach\obj\Debug\net5.0-windows\Quanly_NhaSach.UI.frmNguoidungTimkiem.resources
+C:\Users\NGHI DANG\Dropbox\My PC (LAPTOP-9NVMENQT)\Documents\VAN BANG 2_CNTT\Project\Quanly_NhaSach\Quanly_NhaSach\obj\Debug\net5.0-windows\Quanly_NhaSach.UI.frmNhanVien.resources
+C:\Users\NGHI DANG\Dropbox\My PC (LAPTOP-9NVMENQT)\Documents\VAN BANG 2_CNTT\Project\Quanly_NhaSach\Quanly_NhaSach\obj\Debug\net5.0-windows\Quanly_NhaSach.UI.frmNhanvienTimkiem.resources
+C:\Users\NGHI DANG\Dropbox\My PC (LAPTOP-9NVMENQT)\Documents\VAN BANG 2_CNTT\Project\Quanly_NhaSach\Quanly_NhaSach\obj\Debug\net5.0-windows\Quanly_NhaSach.UI.frmPhieuNhapSach.resources
+C:\Users\NGHI DANG\Dropbox\My PC (LAPTOP-9NVMENQT)\Documents\VAN BANG 2_CNTT\Project\Quanly_NhaSach\Quanly_NhaSach\obj\Debug\net5.0-windows\Quanly_NhaSach.UI.frmPhieuThuTien.resources
+C:\Users\NGHI DANG\Dropbox\My PC (LAPTOP-9NVMENQT)\Documents\VAN BANG 2_CNTT\Project\Quanly_NhaSach\Quanly_NhaSach\obj\Debug\net5.0-windows\Quanly_NhaSach.UI.frmPhieuThuTien_TimKiem.resources
+C:\Users\NGHI DANG\Dropbox\My PC (LAPTOP-9NVMENQT)\Documents\VAN BANG 2_CNTT\Project\Quanly_NhaSach\Quanly_NhaSach\obj\Debug\net5.0-windows\Quanly_NhaSach.UI.frmQuyDinh.resources
+C:\Users\NGHI DANG\Dropbox\My PC (LAPTOP-9NVMENQT)\Documents\VAN BANG 2_CNTT\Project\Quanly_NhaSach\Quanly_NhaSach\obj\Debug\net5.0-windows\Quanly_NhaSach.UI.frmSach.resources
+C:\Users\NGHI DANG\Dropbox\My PC (LAPTOP-9NVMENQT)\Documents\VAN BANG 2_CNTT\Project\Quanly_NhaSach\Quanly_NhaSach\obj\Debug\net5.0-windows\Quanly_NhaSach.UI.frmSachTimkiem.resources
+C:\Users\NGHI DANG\Dropbox\My PC (LAPTOP-9NVMENQT)\Documents\VAN BANG 2_CNTT\Project\Quanly_NhaSach\Quanly_NhaSach\obj\Debug\net5.0-windows\Quanly_NhaSach.UI.frmTacGia.resources
+C:\Users\NGHI DANG\Dropbox\My PC (LAPTOP-9NVMENQT)\Documents\VAN BANG 2_CNTT\Project\Quanly_NhaSach\Quanly_NhaSach\obj\Debug\net5.0-windows\Quanly_NhaSach.UI.frmTheLoai.resources
+C:\Users\NGHI DANG\Dropbox\My PC (LAPTOP-9NVMENQT)\Documents\VAN BANG 2_CNTT\Project\Quanly_NhaSach\Quanly_NhaSach\obj\Debug\net5.0-windows\Quanly_NhaSach.UI.frmTracuuSach.resources
+C:\Users\NGHI DANG\Dropbox\My PC (LAPTOP-9NVMENQT)\Documents\VAN BANG 2_CNTT\Project\Quanly_NhaSach\Quanly_NhaSach\obj\Debug\net5.0-windows\Quanly_NhaSach.csproj.GenerateResource.cache
+C:\Users\NGHI DANG\Dropbox\My PC (LAPTOP-9NVMENQT)\Documents\VAN BANG 2_CNTT\Project\Quanly_NhaSach\Quanly_NhaSach\obj\Debug\net5.0-windows\Quanly_NhaSach.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NGHI DANG\Dropbox\My PC (LAPTOP-9NVMENQT)\Documents\VAN BANG 2_CNTT\Project\Quanly_NhaSach\Quanly_NhaSach\obj\Debug\net5.0-windows\Quanly_NhaSach.AssemblyInfoInputs.cache
+C:\Users\NGHI DANG\Dropbox\My PC (LAPTOP-9NVMENQT)\Documents\VAN BANG 2_CNTT\Project\Quanly_NhaSach\Quanly_NhaSach\obj\Debug\net5.0-windows\Quanly_NhaSach.AssemblyInfo.cs
+C:\Users\NGHI DANG\Dropbox\My PC (LAPTOP-9NVMENQT)\Documents\VAN BANG 2_CNTT\Project\Quanly_NhaSach\Quanly_NhaSach\obj\Debug\net5.0-windows\Quanly_NhaSach.csproj.CoreCompileInputs.cache
+C:\Users\NGHI DANG\Dropbox\My PC (LAPTOP-9NVMENQT)\Documents\VAN BANG 2_CNTT\Project\Quanly_NhaSach\Quanly_NhaSach\obj\Debug\net5.0-windows\Quanly_NhaSach.csproj.Fody.CopyLocal.cache
+C:\Users\NGHI DANG\Dropbox\My PC (LAPTOP-9NVMENQT)\Documents\VAN BANG 2_CNTT\Project\Quanly_NhaSach\Quanly_NhaSach\obj\Debug\net5.0-windows\Quanly_NhaSach.csproj.Fody.RuntimeCopyLocal.cache
+C:\Users\NGHI DANG\Dropbox\My PC (LAPTOP-9NVMENQT)\Documents\VAN BANG 2_CNTT\Project\Quanly_NhaSach\Quanly_NhaSach\obj\Debug\net5.0-windows\Quanly_NhaSach.csproj.CopyComplete
+C:\Users\NGHI DANG\Dropbox\My PC (LAPTOP-9NVMENQT)\Documents\VAN BANG 2_CNTT\Project\Quanly_NhaSach\Quanly_NhaSach\obj\Debug\net5.0-windows\Quanly_NhaSach.dll
+C:\Users\NGHI DANG\Dropbox\My PC (LAPTOP-9NVMENQT)\Documents\VAN BANG 2_CNTT\Project\Quanly_NhaSach\Quanly_NhaSach\obj\Debug\net5.0-windows\refint\Quanly_NhaSach.dll
+C:\Users\NGHI DANG\Dropbox\My PC (LAPTOP-9NVMENQT)\Documents\VAN BANG 2_CNTT\Project\Quanly_NhaSach\Quanly_NhaSach\obj\Debug\net5.0-windows\Quanly_NhaSach.pdb
+C:\Users\NGHI DANG\Dropbox\My PC (LAPTOP-9NVMENQT)\Documents\VAN BANG 2_CNTT\Project\Quanly_NhaSach\Quanly_NhaSach\obj\Debug\net5.0-windows\Quanly_NhaSach.genruntimeconfig.cache
+C:\Users\NGHI DANG\Dropbox\My PC (LAPTOP-9NVMENQT)\Documents\VAN BANG 2_CNTT\Project\Quanly_NhaSach\Quanly_NhaSach\obj\Debug\net5.0-windows\ref\Quanly_NhaSach.dll
